@@ -1,0 +1,13 @@
+Index: CMakeLists.txt
+--- CMakeLists.txt.orig
++++ CMakeLists.txt
+@@ -163,6 +163,9 @@ if (BUILD_STATIC_LIBS)
+ else()
+ 	find_package(ENet REQUIRED)
+ 	find_package(yaml-cpp REQUIRED)
++
++	include_directories(${ENet_INCLUDE_DIRS})
++	link_directories(/usr/local/lib)
+ endif()
+ 
+ #-----------------------------------------------------------------------------
