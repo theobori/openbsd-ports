@@ -5,7 +5,6 @@ DATA_V =	2023-11-23
 
 PKGNAME=	supermariowar-2023
 DISTNAME=	supermariowar-${V}
-#WRKDIST=	${WRKDIR}/supermariowar-${V}
 REVISION= 	0
 
 CATEGORIES=	games
@@ -14,12 +13,11 @@ HOMEPAGE=	https://www.swmstuff.net
 
 MAINTAINER=	Theo Bori <nagi@tilde.team>
 
-SITES = 	https://github.com/mmatyas/supermariowar/
+SITES= 	https://github.com/mmatyas/supermariowar/
 
-DISTFILES = 	archive/refs/tags/${V}${EXTRACT_SUFX} \
+DISTFILES= 	archive/refs/tags/${V}${EXTRACT_SUFX} \
 		releases/download/continuous/supermariowar_${DATA_V}_linux.zip
 
-# Bsd-like
 PERMIT_PACKAGE=	Yes
 
 WANTLIB+=	c SDL2
