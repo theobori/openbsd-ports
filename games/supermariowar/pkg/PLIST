@@ -1,1685 +1,1683 @@
-games/
-games/smw
-games/smw-leveledit
-games/smw-worldedit
-games/smw_data/
-games/smw_data/filters/
-games/smw_data/filters/Capture The Flag.txt
-games/smw_data/filters/Simple.txt
-games/smw_data/gfx/
-games/smw_data/gfx/docs/
-games/smw_data/gfx/docs/b01.png
-games/smw_data/gfx/docs/b02.png
-games/smw_data/gfx/docs/b03.png
-games/smw_data/gfx/docs/b04.png
-games/smw_data/gfx/docs/b05.png
-games/smw_data/gfx/docs/b06.png
-games/smw_data/gfx/docs/b07.png
-games/smw_data/gfx/docs/b08.png
-games/smw_data/gfx/docs/b09.png
-games/smw_data/gfx/docs/b10.png
-games/smw_data/gfx/docs/b11.png
-games/smw_data/gfx/docs/b12.png
-games/smw_data/gfx/docs/b13.png
-games/smw_data/gfx/docs/b14.png
-games/smw_data/gfx/docs/b15.png
-games/smw_data/gfx/docs/i01.png
-games/smw_data/gfx/docs/i02.png
-games/smw_data/gfx/docs/i03.png
-games/smw_data/gfx/docs/i04.png
-games/smw_data/gfx/docs/i05.png
-games/smw_data/gfx/docs/i06.png
-games/smw_data/gfx/docs/i07.png
-games/smw_data/gfx/docs/i08.png
-games/smw_data/gfx/docs/i09.png
-games/smw_data/gfx/docs/i10.png
-games/smw_data/gfx/docs/i11.png
-games/smw_data/gfx/docs/i12.png
-games/smw_data/gfx/docs/i13.png
-games/smw_data/gfx/docs/i14.png
-games/smw_data/gfx/docs/i15.png
-games/smw_data/gfx/docs/i16.png
-games/smw_data/gfx/docs/i17.png
-games/smw_data/gfx/docs/i18.png
-games/smw_data/gfx/docs/i19.png
-games/smw_data/gfx/docs/i20.png
-games/smw_data/gfx/docs/i21.png
-games/smw_data/gfx/docs/i22.png
-games/smw_data/gfx/docs/i23.png
-games/smw_data/gfx/docs/i24.png
-games/smw_data/gfx/docs/i25.png
-games/smw_data/gfx/docs/i26.png
-games/smw_data/gfx/docs/i27.png
-games/smw_data/gfx/docs/i28.png
-games/smw_data/gfx/docs/i29.png
-games/smw_data/gfx/docs/i30.png
-games/smw_data/gfx/docs/i31.png
-games/smw_data/gfx/docs/i32.png
-games/smw_data/gfx/docs/i33.png
-games/smw_data/gfx/docs/i34.png
-games/smw_data/gfx/docs/i35.png
-games/smw_data/gfx/docs/i36.png
-games/smw_data/gfx/docs/i37.png
-games/smw_data/gfx/docs/i38.png
-games/smw_data/gfx/docs/i39.png
-games/smw_data/gfx/docs/i40.png
-games/smw_data/gfx/docs/i41.png
-games/smw_data/gfx/docs/i42.png
-games/smw_data/gfx/docs/i43.png
-games/smw_data/gfx/docs/i44.png
-games/smw_data/gfx/docs/i45.png
-games/smw_data/gfx/docs/i46.png
-games/smw_data/gfx/docs/i47.png
-games/smw_data/gfx/docs/i48.png
-games/smw_data/gfx/docs/i49.png
-games/smw_data/gfx/docs/i50.png
-games/smw_data/gfx/docs/i51.png
-games/smw_data/gfx/docs/m01.png
-games/smw_data/gfx/docs/m02.png
-games/smw_data/gfx/docs/m03.png
-games/smw_data/gfx/docs/m04.png
-games/smw_data/gfx/docs/m05.png
-games/smw_data/gfx/docs/m06.png
-games/smw_data/gfx/docs/m07.png
-games/smw_data/gfx/docs/m08.png
-games/smw_data/gfx/docs/m09.png
-games/smw_data/gfx/docs/m10.png
-games/smw_data/gfx/docs/m11.png
-games/smw_data/gfx/docs/m12.png
-games/smw_data/gfx/docs/m13.png
-games/smw_data/gfx/docs/m14.png
-games/smw_data/gfx/docs/m15.png
-games/smw_data/gfx/docs/m16.png
-games/smw_data/gfx/docs/m17.png
-games/smw_data/gfx/docs/m18.png
-games/smw_data/gfx/docs/m19.png
-games/smw_data/gfx/docs/m20.png
-games/smw_data/gfx/docs/m21.png
-games/smw_data/gfx/docs/splash.png
-games/smw_data/gfx/docs/ss01.png
-games/smw_data/gfx/docs/ss02.png
-games/smw_data/gfx/docs/ss03.png
-games/smw_data/gfx/docs/ss04.png
-games/smw_data/gfx/docs/ss05.png
-games/smw_data/gfx/docs/ss06.png
-games/smw_data/gfx/docs/ss07.png
-games/smw_data/gfx/docs/ss08.png
-games/smw_data/gfx/docs/ss09.png
-games/smw_data/gfx/docs/ss10.png
-games/smw_data/gfx/docs/ss11.png
-games/smw_data/gfx/docs/ss12.png
-games/smw_data/gfx/docs/ss13.png
-games/smw_data/gfx/docs/ttypes.png
-games/smw_data/gfx/leveleditor/
-games/smw_data/gfx/leveleditor/leveleditor_background_levels.png
-games/smw_data/gfx/leveleditor/leveleditor_dialog.png
-games/smw_data/gfx/leveleditor/leveleditor_eyecandy.png
-games/smw_data/gfx/leveleditor/leveleditor_hidden_marker.png
-games/smw_data/gfx/leveleditor/leveleditor_maphazard_buttons.png
-games/smw_data/gfx/leveleditor/leveleditor_mapitems.png
-games/smw_data/gfx/leveleditor/leveleditor_mapitems_preview.png
-games/smw_data/gfx/leveleditor/leveleditor_mapitems_thumbnail.png
-games/smw_data/gfx/leveleditor/leveleditor_mapnotfound.png
-games/smw_data/gfx/leveleditor/leveleditor_noitemspawntile.png
-games/smw_data/gfx/leveleditor/leveleditor_nospawntile.png
-games/smw_data/gfx/leveleditor/leveleditor_pathtype_buttons.png
-games/smw_data/gfx/leveleditor/leveleditor_platform.png
-games/smw_data/gfx/leveleditor/leveleditor_platform_path.png
-games/smw_data/gfx/leveleditor/leveleditor_platformstarttile.png
-games/smw_data/gfx/leveleditor/leveleditor_powerup_selector.png
-games/smw_data/gfx/leveleditor/leveleditor_selectedtile.png
-games/smw_data/gfx/leveleditor/leveleditor_shade.png
-games/smw_data/gfx/leveleditor/leveleditor_tile_types.png
-games/smw_data/gfx/leveleditor/leveleditor_tileset_levels.png
-games/smw_data/gfx/leveleditor/leveleditor_transparent_tiles.png
-games/smw_data/gfx/leveleditor/leveleditor_warp.png
-games/smw_data/gfx/leveleditor/leveleditor_warp_preview.png
-games/smw_data/gfx/leveleditor/leveleditor_warp_thumbnail.png
-games/smw_data/gfx/leveleditor/leveleditor_world_path.png
-games/smw_data/gfx/leveleditor/menu_plain_field.png
-games/smw_data/gfx/leveleditor/menu_selectfield.png
-games/smw_data/gfx/leveleditor/vehicle_icons.png
-games/smw_data/gfx/packs/
-games/smw_data/gfx/packs/Classic/
-games/smw_data/gfx/packs/Classic/awards/
-games/smw_data/gfx/packs/Classic/awards/award.png
-games/smw_data/gfx/packs/Classic/awards/killsinrow.png
-games/smw_data/gfx/packs/Classic/awards/killsinrownumbers.png
-games/smw_data/gfx/packs/Classic/awards/souls.png
-games/smw_data/gfx/packs/Classic/awards/soulspawn.png
-games/smw_data/gfx/packs/Classic/backgrounds/
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_AirshipInterior.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_AirshipInterior2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_ArenaClash.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Audience.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Black.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_CityScape.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_DeepDownInACastle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Doomship.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_DoomshipClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_DoomshipClouds2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_FactoryInside.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_FactoryInside2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_FactoryInside3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_FiendFire.PNG
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_GoombaPillars.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_GoombaPillars2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_GoombaPillars3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_GoombaPillarsNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_GoombaPillarsSnow.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InTheBrickHouse.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InTheFactory.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InTheFactory2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InTheFactory3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InTheFactory4.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_InsideTheGiantTree.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_MBPipes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Manor.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_MiscBattle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_MiscBattle2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_MiscBattle3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_MiscBattle4.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_MonumentInTheBackground.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_MushroomsAngryClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Ring.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_TreeTrunk.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Wall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Warehouse.png
-games/smw_data/gfx/packs/Classic/backgrounds/Battle_Warehouse2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_BlueDots.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Bonus.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_BonusGame.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_BonusRoom.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_BonusRoom2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Bricks.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_BrownWall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_ClassicItems.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_CoinHall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_DKHammer.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Fire.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_GrayNightSky.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_GreenStar.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_HillsAtNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_HillsAtNight2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_InTheTreasureHouse.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_InTheTreasureHouse2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Intro.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Library.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Lightening.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Moonlight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Mushroom.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Mystery.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_NightSky.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_NightSky2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_PeachCastle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Picross.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_PipeMinigame.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_PowerupB.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_PowerupP.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_PurpleMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_RainbowStars.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Safari.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Space.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_StarryMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_StarryNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_StarryNight2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Stars.png
-games/smw_data/gfx/packs/Classic/backgrounds/Bonus_Stars2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_BowserCastle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_BowserCastle2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_BowserCastle3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Castle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_CastleColumns.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_CastleHall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_CastleHall2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_CastleHall3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_CastleHall4.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_CastleHall5.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_DarkRoom.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_DistantClimb.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Dungeon.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Fortress.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Fortress2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_GoldBowser.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_GoombaHall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_InsideTower.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_LavaGlow.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_MainHall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_OuterCastleWalls.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Oversee.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_TwoWindows.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_VileCorridor.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Walls.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Walls2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_Walls3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Castle_WarioThwompCastle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_AboveTheClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_AdvanceClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_BeanStocks.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_Beanstalks.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_CityInTheSky.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_CityInTheSky2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_CityInTheSky3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_CloudHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_CloudSky.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_CloudSkyNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_Clouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_Clouds1.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_Clouds2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_Clouds3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_Clouds3a.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_CloudsInTheNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_KirbyClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_LakituClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_MoreClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_SideClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_SmilingClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Clouds_StageClear.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_BigPyramid.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_Bricks.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_Canyon.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_CanyonTemple.PNG
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_Desert.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_Desert2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_DesertByNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_DryPyramids.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_GrassDunes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_HillsAtNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_LowDunes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_LowPyramids.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_MountainSide.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_Oasis.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_OasisPyramid.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_PokeyDunes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_Pyramid.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_Pyramids.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_StarryPyramids.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_TempleByTheMountain.png
-games/smw_data/gfx/packs/Classic/backgrounds/Desert_YoshiSphinx.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_AbandonedHouse.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_DistantManor.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_EerieMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse4.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse5.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse6.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostHouseOutside.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostManor.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_GhostManor2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_MistyLand.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_ShadyClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Ghost_SpookyCellar.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_AboveCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees4.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Airway.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_AutumnMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_BlueHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_BowserLand.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_BushLands.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ButterCookieHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ByTheHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_CastleWall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_CastleWallDark.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ChocolateMountain.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ChocolateMountain2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ChocolateMountain3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_CityScape.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Classic.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Classic2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ClassicNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Cookie.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Cookie2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Cookie3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Courtyard.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_CrossSection.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_DistantMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_DistantMountains2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Forest.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ForestalWork.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_GrassLand.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_GreenHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_GreenHills2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_GreenHillsAndClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_GreenMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_HillsBrown.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_HillsGreen.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheDeepDarkTrees.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheDeepTrees.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheTrees.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheTrees2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheTrees3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheTrees4.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheTrees5.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_InTheTrees6.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_JaggedBeach.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_JaggedBeach2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Jungle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_JungleTop.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_MarioToyFactory.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Marsh.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_MountainsGreen.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_MountainsGreen2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_MushroomKingdom.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_PeachCastle.PNG
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Picross.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_PiranhaPlantGarden.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_SafariHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_SandCastles.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_ShyguyCrew.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_SuperKoopaHill.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Trees.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Trees2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_TreesAtNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Volcanic.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_Volcanic2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_WigglerForest.png
-games/smw_data/gfx/packs/Classic/backgrounds/Land_YoshisAtTheLake.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platform_MushroomTops.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_AnOminousWorld.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_AnOminousWorld2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_BlueSpottedHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_BlueSpottedHills2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_BlueStarrySky.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_BrightStars.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_ChocolateMountain.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_ChocolateMountain2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_ChocolateMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_CloudTrail.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_CloudsAndWaterfalls.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_ColorfulHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_DistantClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_DuskOcean.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_EvilClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_ForestHillSkies.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_GreenSpottedHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_GreenSpottedHills2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_GreenStarrySky.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_HighAboveOcean.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_HillyLava.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_HillyWater.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_JaggedCloudyMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_JaggedForestMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_JaggedVolcanoLeak.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_JaggedVolcanos.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_KirbyOrangeMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_KirbyPurpleMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_LavaLake.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_Moonlight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_Mountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_MushroomClouds.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_Mushrooms.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_MushroomsAtNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_NightMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_NorthernLights.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_Pipeland.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_SafariHigh.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_SeaMushrooms.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_StripedMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_TallHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_UpInTheTreetop.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_UpInTheTreetop2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_Waterfalls.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_Waterfalls2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_Waterfalls3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Platforms_WaterfallsLeak.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_BlueJaggedStones.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_BlueJaggedStones2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_IceCavern.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_JaggedIce.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones4.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_NightFrozenMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_SnowCaps.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_SnowCovered.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_SnowMountain.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_SnowTrees.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_SnowyHillsAtNight.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_SnowyMountains.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_WhiteHills.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_WhiteRockies.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_WinterForestHillSkies.png
-games/smw_data/gfx/packs/Classic/backgrounds/Snow_hillssnow.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_BlarggCavern.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_BrownCave.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_BrownRock.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_BrownRockWall.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_BrownRockWall2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_Cave.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_Cave2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_ColdCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_CrystalMines.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_DarkPipes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_DarkPipes2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_DeepJungle.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_DeepJungle2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_EgyptianPillars.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_EgyptianPillars2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_FrozenRex.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_GreyRock.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_IceCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_IceRock.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_IcyPillars.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_IcyPillars2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_InsideVolcano.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_InsideVolcano2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_LayeredCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_LayeredCaves2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_LayeredMushroomCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_LightPipes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_MB_Pipes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_MagmaPipes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_Mine.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_MurkyCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_RedCoal.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_RockWallAndPlants.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_RockWallAndPlantsDark.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_RockyCave.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_Sewers.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_SpectreCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_UnderTheGround.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_UnderTheGround2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_VolcanoCaves.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underground_blackbossbg.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_BeneathTheDeepDark.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_BeneathTheSurface.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_BeneathTheSurface2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_DarkWaters.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_DeepGlowWaters.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_DeepUnderwater.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_FishPond.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_FortressBeneathTheWater.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_InsideTheSunkenShip.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_Safari.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_SafariPipes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_SafariPollutionPipes.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_ToxicWater.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_UnderWaterRuins.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_Underwater.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_Underwater2.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_Underwater3.png
-games/smw_data/gfx/packs/Classic/backgrounds/Underwater_WaterPipes.png
-games/smw_data/gfx/packs/Classic/blocks/
-games/smw_data/gfx/packs/Classic/blocks/bounceblock.png
-games/smw_data/gfx/packs/Classic/blocks/breakableblock.png
-games/smw_data/gfx/packs/Classic/blocks/donutblock.png
-games/smw_data/gfx/packs/Classic/blocks/flipblock.png
-games/smw_data/gfx/packs/Classic/blocks/noteblock.png
-games/smw_data/gfx/packs/Classic/blocks/powerupblock.png
-games/smw_data/gfx/packs/Classic/blocks/switchblock.png
-games/smw_data/gfx/packs/Classic/blocks/throwblock.png
-games/smw_data/gfx/packs/Classic/blocks/viewblock.png
-games/smw_data/gfx/packs/Classic/blocks/weaponbreakableblock.png
-games/smw_data/gfx/packs/Classic/eyecandy/
-games/smw_data/gfx/packs/Classic/eyecandy/abovearrows.png
-games/smw_data/gfx/packs/Classic/eyecandy/bobombsmoke.png
-games/smw_data/gfx/packs/Classic/eyecandy/bonus.png
-games/smw_data/gfx/packs/Classic/eyecandy/brokenblueblock.png
-games/smw_data/gfx/packs/Classic/eyecandy/brokenflipblock.png
-games/smw_data/gfx/packs/Classic/eyecandy/brokengrayblock.png
-games/smw_data/gfx/packs/Classic/eyecandy/brokenyellowblock.png
-games/smw_data/gfx/packs/Classic/eyecandy/bulletbilldead.png
-games/smw_data/gfx/packs/Classic/eyecandy/burnup.png
-games/smw_data/gfx/packs/Classic/eyecandy/cape.png
-games/smw_data/gfx/packs/Classic/eyecandy/cheepcheepdead.png
-games/smw_data/gfx/packs/Classic/eyecandy/cloud.png
-games/smw_data/gfx/packs/Classic/eyecandy/coinsparks.png
-games/smw_data/gfx/packs/Classic/eyecandy/crown.png
-games/smw_data/gfx/packs/Classic/eyecandy/explosion.png
-games/smw_data/gfx/packs/Classic/eyecandy/extralife.png
-games/smw_data/gfx/packs/Classic/eyecandy/fireballexplosion.png
-games/smw_data/gfx/packs/Classic/eyecandy/fireworks.png
-games/smw_data/gfx/packs/Classic/eyecandy/fish.png
-games/smw_data/gfx/packs/Classic/eyecandy/frictionsmoke.png
-games/smw_data/gfx/packs/Classic/eyecandy/ghost.png
-games/smw_data/gfx/packs/Classic/eyecandy/goombadead.png
-games/smw_data/gfx/packs/Classic/eyecandy/goombadeadflying.png
-games/smw_data/gfx/packs/Classic/eyecandy/iceblock.png
-games/smw_data/gfx/packs/Classic/eyecandy/icecube.png
-games/smw_data/gfx/packs/Classic/eyecandy/leaves.png
-games/smw_data/gfx/packs/Classic/eyecandy/overlayholes.png
-games/smw_data/gfx/packs/Classic/eyecandy/poof.png
-games/smw_data/gfx/packs/Classic/eyecandy/rain.png
-games/smw_data/gfx/packs/Classic/eyecandy/shade1.png
-games/smw_data/gfx/packs/Classic/eyecandy/shade2.png
-games/smw_data/gfx/packs/Classic/eyecandy/shade3.png
-games/smw_data/gfx/packs/Classic/eyecandy/shellbounce.png
-games/smw_data/gfx/packs/Classic/eyecandy/shelldead.png
-games/smw_data/gfx/packs/Classic/eyecandy/shinesparks.png
-games/smw_data/gfx/packs/Classic/eyecandy/sledgebrothersdead.png
-games/smw_data/gfx/packs/Classic/eyecandy/snow.png
-games/smw_data/gfx/packs/Classic/eyecandy/spawndoor.png
-games/smw_data/gfx/packs/Classic/eyecandy/spawnsmoke.png
-games/smw_data/gfx/packs/Classic/eyecandy/supersmash.png
-games/smw_data/gfx/packs/Classic/eyecandy/tail.png
-games/smw_data/gfx/packs/Classic/eyecandy/teleportstar.png
-games/smw_data/gfx/packs/Classic/eyecandy/timershade.png
-games/smw_data/gfx/packs/Classic/eyecandy/warplock.png
-games/smw_data/gfx/packs/Classic/eyecandy/wind_meter.png
-games/smw_data/gfx/packs/Classic/eyecandy/wings.png
-games/smw_data/gfx/packs/Classic/fonts/
-games/smw_data/gfx/packs/Classic/fonts/font_large.png
-games/smw_data/gfx/packs/Classic/fonts/font_small.png
-games/smw_data/gfx/packs/Classic/fonts/race.png
-games/smw_data/gfx/packs/Classic/fonts/score.png
-games/smw_data/gfx/packs/Classic/hazards/
-games/smw_data/gfx/packs/Classic/hazards/bulletbill.png
-games/smw_data/gfx/packs/Classic/hazards/bulletbill_preview.png
-games/smw_data/gfx/packs/Classic/hazards/bulletbill_thumbnail.png
-games/smw_data/gfx/packs/Classic/hazards/bulletbilldead.png
-games/smw_data/gfx/packs/Classic/hazards/fireball.png
-games/smw_data/gfx/packs/Classic/hazards/fireball_preview.png
-games/smw_data/gfx/packs/Classic/hazards/fireball_thumbnail.png
-games/smw_data/gfx/packs/Classic/hazards/flame.png
-games/smw_data/gfx/packs/Classic/hazards/flame_preview.png
-games/smw_data/gfx/packs/Classic/hazards/flame_thumbnail.png
-games/smw_data/gfx/packs/Classic/hazards/pirhanaplant.png
-games/smw_data/gfx/packs/Classic/hazards/pirhanaplant_preview.png
-games/smw_data/gfx/packs/Classic/hazards/pirhanaplant_thumbnail.png
-games/smw_data/gfx/packs/Classic/hazards/rotodisc.png
-games/smw_data/gfx/packs/Classic/hazards/rotodisc_preview.png
-games/smw_data/gfx/packs/Classic/hazards/rotodisc_thumbnail.png
-games/smw_data/gfx/packs/Classic/menu/
-games/smw_data/gfx/packs/Classic/menu/dialog.png
-games/smw_data/gfx/packs/Classic/menu/dialog_button.png
-games/smw_data/gfx/packs/Classic/menu/game_countdown_numbers.png
-games/smw_data/gfx/packs/Classic/menu/menu_announcement_icons.png
-games/smw_data/gfx/packs/Classic/menu/menu_background.png
-games/smw_data/gfx/packs/Classic/menu/menu_boxed_numbers.png
-games/smw_data/gfx/packs/Classic/menu/menu_dialog.png
-games/smw_data/gfx/packs/Classic/menu/menu_font_large.png
-games/smw_data/gfx/packs/Classic/menu/menu_font_small.png
-games/smw_data/gfx/packs/Classic/menu/menu_map_filter.png
-games/smw_data/gfx/packs/Classic/menu/menu_map_flags.png
-games/smw_data/gfx/packs/Classic/menu/menu_mapitems_preview.png
-games/smw_data/gfx/packs/Classic/menu/menu_mapitems_thumbnail.png
-games/smw_data/gfx/packs/Classic/menu/menu_match_select.png
-games/smw_data/gfx/packs/Classic/menu/menu_mode_large.png
-games/smw_data/gfx/packs/Classic/menu/menu_mode_small.png
-games/smw_data/gfx/packs/Classic/menu/menu_plain_field.png
-games/smw_data/gfx/packs/Classic/menu/menu_player_select.png
-games/smw_data/gfx/packs/Classic/menu/menu_selectfield.png
-games/smw_data/gfx/packs/Classic/menu/menu_selectfield_disabled.png
-games/smw_data/gfx/packs/Classic/menu/menu_shade.png
-games/smw_data/gfx/packs/Classic/menu/menu_slider_bar.png
-games/smw_data/gfx/packs/Classic/menu/menu_smw.png
-games/smw_data/gfx/packs/Classic/menu/menu_version.png
-games/smw_data/gfx/packs/Classic/menu/menu_vertical_arrows.png
-games/smw_data/gfx/packs/Classic/menu/menu_warp_preview.png
-games/smw_data/gfx/packs/Classic/menu/menu_warp_thumbnail.png
-games/smw_data/gfx/packs/Classic/menu/player_select_background.png
-games/smw_data/gfx/packs/Classic/menu/player_select_ready.png
-games/smw_data/gfx/packs/Classic/menu/score_cards.png
-games/smw_data/gfx/packs/Classic/menu/score_coins.png
-games/smw_data/gfx/packs/Classic/menu/score_hearts.png
-games/smw_data/gfx/packs/Classic/menu/scoreboard.png
-games/smw_data/gfx/packs/Classic/menu/splash_credits.png
-games/smw_data/gfx/packs/Classic/menu/tour_markers.png
-games/smw_data/gfx/packs/Classic/menu/tournament_background.png
-games/smw_data/gfx/packs/Classic/menu/tournament_powerup_splash.png
-games/smw_data/gfx/packs/Classic/modeobjects/
-games/smw_data/gfx/packs/Classic/modeobjects/areas.png
-games/smw_data/gfx/packs/Classic/modeobjects/bonuschest.png
-games/smw_data/gfx/packs/Classic/modeobjects/bowserfire.png
-games/smw_data/gfx/packs/Classic/modeobjects/buzzybeetle.png
-games/smw_data/gfx/packs/Classic/modeobjects/cheepcheep.png
-games/smw_data/gfx/packs/Classic/modeobjects/chicken.png
-games/smw_data/gfx/packs/Classic/modeobjects/coin.png
-games/smw_data/gfx/packs/Classic/modeobjects/collectcards.png
-games/smw_data/gfx/packs/Classic/modeobjects/egg.png
-games/smw_data/gfx/packs/Classic/modeobjects/eggnumbers.png
-games/smw_data/gfx/packs/Classic/modeobjects/flagbases.png
-games/smw_data/gfx/packs/Classic/modeobjects/flags.png
-games/smw_data/gfx/packs/Classic/modeobjects/frenzycards.png
-games/smw_data/gfx/packs/Classic/modeobjects/goomba.png
-games/smw_data/gfx/packs/Classic/modeobjects/jail.png
-games/smw_data/gfx/packs/Classic/modeobjects/key.png
-games/smw_data/gfx/packs/Classic/modeobjects/kingofthehill.png
-games/smw_data/gfx/packs/Classic/modeobjects/koopa.png
-games/smw_data/gfx/packs/Classic/modeobjects/menu_egg.png
-games/smw_data/gfx/packs/Classic/modeobjects/menu_stomp.png
-games/smw_data/gfx/packs/Classic/modeobjects/menu_survival.png
-games/smw_data/gfx/packs/Classic/modeobjects/ownedtags.png
-games/smw_data/gfx/packs/Classic/modeobjects/paragoomba.png
-games/smw_data/gfx/packs/Classic/modeobjects/parakoopa.png
-games/smw_data/gfx/packs/Classic/modeobjects/phanto.png
-games/smw_data/gfx/packs/Classic/modeobjects/pipeminigamebonuses.png
-games/smw_data/gfx/packs/Classic/modeobjects/podobo.png
-games/smw_data/gfx/packs/Classic/modeobjects/racegoal.png
-games/smw_data/gfx/packs/Classic/modeobjects/redkoopa.png
-games/smw_data/gfx/packs/Classic/modeobjects/redparakoopa.png
-games/smw_data/gfx/packs/Classic/modeobjects/sledgebrothers.png
-games/smw_data/gfx/packs/Classic/modeobjects/sledgehammer.png
-games/smw_data/gfx/packs/Classic/modeobjects/spiny.png
-games/smw_data/gfx/packs/Classic/modeobjects/star.png
-games/smw_data/gfx/packs/Classic/modeobjects/superfire.png
-games/smw_data/gfx/packs/Classic/modeobjects/thwomp.png
-games/smw_data/gfx/packs/Classic/modeobjects/yoshi.png
-games/smw_data/gfx/packs/Classic/modeskins/
-games/smw_data/gfx/packs/Classic/modeskins/bobomb.bmp
-games/smw_data/gfx/packs/Classic/modeskins/chicken.bmp
-games/smw_data/gfx/packs/Classic/modeskins/shyguy.bmp
-games/smw_data/gfx/packs/Classic/palette.bmp
-games/smw_data/gfx/packs/Classic/powerups/
-games/smw_data/gfx/packs/Classic/powerups/1uppowerup.png
-games/smw_data/gfx/packs/Classic/powerups/2uppowerup.png
-games/smw_data/gfx/packs/Classic/powerups/3uppowerup.png
-games/smw_data/gfx/packs/Classic/powerups/5uppowerup.png
-games/smw_data/gfx/packs/Classic/powerups/Scrap.shs
-games/smw_data/gfx/packs/Classic/powerups/bobombpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/bombpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/boomerangpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/bulletbillpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/clockpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/extratimepowerup.png
-games/smw_data/gfx/packs/Classic/powerups/featherpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/fireflower.png
-games/smw_data/gfx/packs/Classic/powerups/hammerpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/heartpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/icewandpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/jailkeypowerup.png
-games/smw_data/gfx/packs/Classic/powerups/kuriboshoe.png
-games/smw_data/gfx/packs/Classic/powerups/large.png
-games/smw_data/gfx/packs/Classic/powerups/leafpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/modpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/mysterymushroom.png
-games/smw_data/gfx/packs/Classic/powerups/podobopowerup.png
-games/smw_data/gfx/packs/Classic/powerups/poisonpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/powpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/pwings.png
-games/smw_data/gfx/packs/Classic/powerups/secret1.png
-games/smw_data/gfx/packs/Classic/powerups/secret2.png
-games/smw_data/gfx/packs/Classic/powerups/secret3.png
-games/smw_data/gfx/packs/Classic/powerups/secret4.png
-games/smw_data/gfx/packs/Classic/powerups/small.png
-games/smw_data/gfx/packs/Classic/powerups/spike.png
-games/smw_data/gfx/packs/Classic/powerups/spring.png
-games/smw_data/gfx/packs/Classic/powerups/starpowerup.png
-games/smw_data/gfx/packs/Classic/powerups/tanooki.png
-games/smw_data/gfx/packs/Classic/powerups/throwbox.png
-games/smw_data/gfx/packs/Classic/projectiles/
-games/smw_data/gfx/packs/Classic/projectiles/bomb.png
-games/smw_data/gfx/packs/Classic/projectiles/boomerang.png
-games/smw_data/gfx/packs/Classic/projectiles/bulletbill.png
-games/smw_data/gfx/packs/Classic/projectiles/fireball.png
-games/smw_data/gfx/packs/Classic/projectiles/hammer.png
-games/smw_data/gfx/packs/Classic/projectiles/shell.png
-games/smw_data/gfx/packs/Classic/projectiles/statue.png
-games/smw_data/gfx/packs/Classic/projectiles/throwblock.png
-games/smw_data/gfx/packs/Classic/projectiles/wandblast.png
-games/smw_data/gfx/packs/Classic/tilesets/
-games/smw_data/gfx/packs/Classic/tilesets/Classic/
-games/smw_data/gfx/packs/Classic/tilesets/Classic/large.png
-games/smw_data/gfx/packs/Classic/tilesets/Classic/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/Classic/small.png
-games/smw_data/gfx/packs/Classic/tilesets/Classic/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/Expanded/
-games/smw_data/gfx/packs/Classic/tilesets/Expanded/large.png
-games/smw_data/gfx/packs/Classic/tilesets/Expanded/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/Expanded/small.png
-games/smw_data/gfx/packs/Classic/tilesets/Expanded/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/Expanded2/
-games/smw_data/gfx/packs/Classic/tilesets/Expanded2/large.png
-games/smw_data/gfx/packs/Classic/tilesets/Expanded2/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/Expanded2/small.png
-games/smw_data/gfx/packs/Classic/tilesets/Expanded2/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/ExtendedCredits.txt
-games/smw_data/gfx/packs/Classic/tilesets/SMB1/
-games/smw_data/gfx/packs/Classic/tilesets/SMB1/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended/
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended2/
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended2/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended2/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended2/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB1Extended2/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SMB2/
-games/smw_data/gfx/packs/Classic/tilesets/SMB2/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended/
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended2/
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended2/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended2/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended2/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB2Extended2/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SMB3/
-games/smw_data/gfx/packs/Classic/tilesets/SMB3/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB3/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB3/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB3/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SMB3Extended/
-games/smw_data/gfx/packs/Classic/tilesets/SMB3Extended/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB3Extended/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB3Extended/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SMB3Extended/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorld/
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorld/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorld/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorld/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorld/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/large.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/small.png
-games/smw_data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/YoshisIsland/
-games/smw_data/gfx/packs/Classic/tilesets/YoshisIsland/large.png
-games/smw_data/gfx/packs/Classic/tilesets/YoshisIsland/medium.png
-games/smw_data/gfx/packs/Classic/tilesets/YoshisIsland/small.png
-games/smw_data/gfx/packs/Classic/tilesets/YoshisIsland/tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/blocks.png
-games/smw_data/gfx/packs/Classic/tilesets/blocks_preview.png
-games/smw_data/gfx/packs/Classic/tilesets/blocks_thumbnail.png
-games/smw_data/gfx/packs/Classic/tilesets/tile_animation.png
-games/smw_data/gfx/packs/Classic/tilesets/tile_animation_preview.png
-games/smw_data/gfx/packs/Classic/tilesets/tile_animation_thumbnail.png
-games/smw_data/gfx/packs/Classic/tilesets/tile_animation_tileset.tls
-games/smw_data/gfx/packs/Classic/tilesets/unknown_tile.png
-games/smw_data/gfx/packs/Classic/tilesets/unknown_tile_preview.png
-games/smw_data/gfx/packs/Classic/tilesets/unknown_tile_thumbnail.png
-games/smw_data/gfx/packs/Classic/world/
-games/smw_data/gfx/packs/Classic/world/preview/
-games/smw_data/gfx/packs/Classic/world/preview/world_background.png
-games/smw_data/gfx/packs/Classic/world/preview/world_foreground.png
-games/smw_data/gfx/packs/Classic/world/preview/world_foreground_special.png
-games/smw_data/gfx/packs/Classic/world/preview/world_paths.png
-games/smw_data/gfx/packs/Classic/world/preview/world_vehicles.png
-games/smw_data/gfx/packs/Classic/world/thumbnail/
-games/smw_data/gfx/packs/Classic/world/thumbnail/world_background.png
-games/smw_data/gfx/packs/Classic/world/thumbnail/world_foreground.png
-games/smw_data/gfx/packs/Classic/world/thumbnail/world_foreground_special.png
-games/smw_data/gfx/packs/Classic/world/thumbnail/world_paths.png
-games/smw_data/gfx/packs/Classic/world/thumbnail/world_vehicles.png
-games/smw_data/gfx/packs/Classic/world/world_background.png
-games/smw_data/gfx/packs/Classic/world/world_bonushouse.png
-games/smw_data/gfx/packs/Classic/world/world_bonusplace.png
-games/smw_data/gfx/packs/Classic/world/world_foreground.png
-games/smw_data/gfx/packs/Classic/world/world_foreground_special.png
-games/smw_data/gfx/packs/Classic/world/world_item_popup.png
-games/smw_data/gfx/packs/Classic/world/world_paths.png
-games/smw_data/gfx/packs/Classic/world/world_powerups.png
-games/smw_data/gfx/packs/Classic/world/world_powerupssmall.png
-games/smw_data/gfx/packs/Classic/world/world_vehicles.png
-games/smw_data/gfx/packs/Retro/
-games/smw_data/gfx/packs/Retro/awards/
-games/smw_data/gfx/packs/Retro/awards/killsinrownumbers.png
-games/smw_data/gfx/packs/Retro/eyecandy/
-games/smw_data/gfx/packs/Retro/eyecandy/abovearrows.png
-games/smw_data/gfx/packs/Retro/eyecandy/bonus.png
-games/smw_data/gfx/packs/Retro/eyecandy/spawndoor.png
-games/smw_data/gfx/packs/Retro/eyecandy/warplock.png
-games/smw_data/gfx/packs/Retro/fonts/
-games/smw_data/gfx/packs/Retro/fonts/font_large.png
-games/smw_data/gfx/packs/Retro/fonts/font_small.png
-games/smw_data/gfx/packs/Retro/menu/
-games/smw_data/gfx/packs/Retro/menu/dialog.png
-games/smw_data/gfx/packs/Retro/menu/dialog_button.png
-games/smw_data/gfx/packs/Retro/menu/menu_background.png
-games/smw_data/gfx/packs/Retro/menu/menu_dialog.png
-games/smw_data/gfx/packs/Retro/menu/menu_font_large.png
-games/smw_data/gfx/packs/Retro/menu/menu_font_small.png
-games/smw_data/gfx/packs/Retro/menu/menu_map_filter.png
-games/smw_data/gfx/packs/Retro/menu/menu_map_flags.png
-games/smw_data/gfx/packs/Retro/menu/menu_mode_large.png
-games/smw_data/gfx/packs/Retro/menu/menu_mode_small.png
-games/smw_data/gfx/packs/Retro/menu/menu_plain_field.png
-games/smw_data/gfx/packs/Retro/menu/menu_player_select.png
-games/smw_data/gfx/packs/Retro/menu/menu_selectfield.png
-games/smw_data/gfx/packs/Retro/menu/menu_selectfield_disabled.png
-games/smw_data/gfx/packs/Retro/menu/menu_slider_bar.png
-games/smw_data/gfx/packs/Retro/menu/menu_smw.png
-games/smw_data/gfx/packs/Retro/menu/player_select_background.png
-games/smw_data/gfx/packs/Retro/menu/player_select_ready.png
-games/smw_data/gfx/packs/Retro/menu/scoreboard.png
-games/smw_data/gfx/packs/Retro/menu/splash_credits.png
-games/smw_data/gfx/packs/Retro/menu/tournament_background.png
-games/smw_data/gfx/packs/Retro/menu/tournament_powerup_splash.png
-games/smw_data/gfx/packs/Retro/modeobjects/
-games/smw_data/gfx/packs/Retro/modeobjects/chicken.png
-games/smw_data/gfx/packs/Retro/modeobjects/flagbases.png
-games/smw_data/gfx/packs/Retro/modeobjects/flags.png
-games/smw_data/gfx/packs/Retro/modeobjects/jail.png
-games/smw_data/gfx/packs/Retro/modeobjects/kingofthehill.png
-games/smw_data/gfx/packs/Retro/modeobjects/ownedtags.png
-games/smw_data/gfx/packs/Retro/powerups/
-games/smw_data/gfx/packs/Retro/powerups/1uppowerup.png
-games/smw_data/gfx/packs/Retro/powerups/2uppowerup.png
-games/smw_data/gfx/packs/Retro/powerups/3uppowerup.png
-games/smw_data/gfx/packs/Retro/powerups/5uppowerup.png
-games/smw_data/gfx/packs/Retro/powerups/large.png
-games/smw_data/gfx/packs/Retro/powerups/small.png
-games/smw_data/gfx/skins/
-games/smw_data/gfx/skins/0smw.bmp
-games/smw_data/gfx/skins/4matsy_BubbleBobble.bmp
-games/smw_data/gfx/skins/4matsy_Darknut.bmp
-games/smw_data/gfx/skins/4matsy_DigDug.bmp
-games/smw_data/gfx/skins/4matsy_Dinotorch.bmp
-games/smw_data/gfx/skins/4matsy_Ducker.bmp
-games/smw_data/gfx/skins/4matsy_Fygar.bmp
-games/smw_data/gfx/skins/4matsy_Goriya.bmp
-games/smw_data/gfx/skins/4matsy_Mappy.bmp
-games/smw_data/gfx/skins/4matsy_Moblin.bmp
-games/smw_data/gfx/skins/4matsy_Muncher.bmp
-games/smw_data/gfx/skins/4matsy_Pacman.bmp
-games/smw_data/gfx/skins/4matsy_Pooka.bmp
-games/smw_data/gfx/skins/4matsy_Stalfos.bmp
-games/smw_data/gfx/skins/4matsy_Vire.bmp
-games/smw_data/gfx/skins/Bahamut.bmp
-games/smw_data/gfx/skins/BlackMage.bmp
-games/smw_data/gfx/skins/BubBob.bmp
-games/smw_data/gfx/skins/BusterBeetle.bmp
-games/smw_data/gfx/skins/Chocobo.bmp
-games/smw_data/gfx/skins/Classic.bmp
-games/smw_data/gfx/skins/FTG_Monkey.bmp
-games/smw_data/gfx/skins/FTG_Octorok.bmp
-games/smw_data/gfx/skins/FTG_Yoshi.bmp
-games/smw_data/gfx/skins/Flurry.bmp
-games/smw_data/gfx/skins/Ghost.bmp
-games/smw_data/gfx/skins/Kirby.bmp
-games/smw_data/gfx/skins/Kooper.bmp
-games/smw_data/gfx/skins/Link.bmp
-games/smw_data/gfx/skins/Luigi.bmp
-games/smw_data/gfx/skins/Marioman64_WaddleDoo.bmp
-games/smw_data/gfx/skins/MontyMole.bmp
-games/smw_data/gfx/skins/NMcCoy_nipper.bmp
-games/smw_data/gfx/skins/NinjaKid.bmp
-games/smw_data/gfx/skins/Ninji.bmp
-games/smw_data/gfx/skins/PacMan.bmp
-games/smw_data/gfx/skins/Peardian_Zero.bmp
-games/smw_data/gfx/skins/Pig.bmp
-games/smw_data/gfx/skins/Pyoro.bmp
-games/smw_data/gfx/skins/Sgraff_AntiGuy.bmp
-games/smw_data/gfx/skins/Shyguy.bmp
-games/smw_data/gfx/skins/Snifit.bmp
-games/smw_data/gfx/skins/Sonic.bmp
-games/smw_data/gfx/skins/Spike.bmp
-games/smw_data/gfx/skins/SuperWario_Blooper.bmp
-games/smw_data/gfx/skins/SuperWario_Bowser.bmp
-games/smw_data/gfx/skins/SuperWario_DK.bmp
-games/smw_data/gfx/skins/SuperWario_Koopa.bmp
-games/smw_data/gfx/skins/Tweeter.bmp
-games/smw_data/gfx/skins/WhiteMage.bmp
-games/smw_data/gfx/skins/Wizrobe.bmp
-games/smw_data/gfx/skins/XdragonSB_Samus.bmp
-games/smw_data/gfx/skins/Xijar_Beetle.bmp
-games/smw_data/gfx/skins/Xijar_Cecil.bmp
-games/smw_data/gfx/skins/YoshiMan_Sandbag.bmp
-games/smw_data/gfx/skins/YoshiMan_Tanooki.bmp
-games/smw_data/gfx/skins/ftg_RedMage.bmp
-games/smw_data/gfx/skins/ftg_Train.bmp
-games/smw_data/gfx/skins/hazey_Bomberman.bmp
-games/smw_data/gfx/skins/hazey_Carbuncle.bmp
-games/smw_data/gfx/skins/hazey_ChuChuRocket.bmp
-games/smw_data/gfx/skins/hazey_HelloKitty.bmp
-games/smw_data/gfx/skins/hazey_JumpnBump.bmp
-games/smw_data/gfx/skins/hazey_Lolo.bmp
-games/smw_data/gfx/skins/hazey_Megaman.bmp
-games/smw_data/gfx/skins/hazey_Pikachu.bmp
-games/smw_data/gfx/skins/hazey_RainbowIslands.bmp
-games/smw_data/gfx/skins/hazey_Trainer.bmp
-games/smw_data/gfx/skins/link901_Knuckles.bmp
-games/smw_data/gfx/skins/link901_Tails.bmp
-games/smw_data/gfx/skins/peardian_BabyYoshi.bmp
-games/smw_data/gfx/skins/peardian_Blaziken.bmp
-games/smw_data/gfx/skins/peardian_Fawful.bmp
-games/smw_data/gfx/skins/peardian_Gardevoir.bmp
-games/smw_data/gfx/skins/peardian_GrimLeecher.bmp
-games/smw_data/gfx/skins/peardian_PsychoKamek.bmp
-games/smw_data/gfx/skins/peardian_Shroob.bmp
-games/smw_data/gfx/skins/sgraff_Boo.bmp
-games/smw_data/gfx/skins/sgraff_Bow.bmp
-games/smw_data/gfx/skins/sgraff_Cobrat.bmp
-games/smw_data/gfx/skins/sgraff_Daisy.bmp
-games/smw_data/gfx/skins/sgraff_DinoRex.bmp
-games/smw_data/gfx/skins/sgraff_Goomboo.bmp
-games/smw_data/gfx/skins/sgraff_HammerBrother.bmp
-games/smw_data/gfx/skins/sgraff_HammerMario.bmp
-games/smw_data/gfx/skins/sgraff_Lakitu.bmp
-games/smw_data/gfx/skins/sgraff_Luigi.bmp
-games/smw_data/gfx/skins/sgraff_Mario.bmp
-games/smw_data/gfx/skins/sgraff_Oldman.bmp
-games/smw_data/gfx/skins/sgraff_Peach.bmp
-games/smw_data/gfx/skins/sgraff_Shaggy.bmp
-games/smw_data/gfx/skins/sgraff_Toad.bmp
-games/smw_data/gfx/skins/sgraff_WarioWare.bmp
-games/smw_data/gfx/skins/wasabi_Fighterfly.bmp
-games/smw_data/gfx/skins/wasabi_Goomba.bmp
-games/smw_data/gfx/skins/wasabi_IceHockeyFat.bmp
-games/smw_data/gfx/skins/wasabi_IceHockeyGoalie.bmp
-games/smw_data/gfx/skins/wasabi_IceHockeyMedium.bmp
-games/smw_data/gfx/skins/wasabi_IceHockeySkinny.bmp
-games/smw_data/gfx/skins/wasabi_SlipIce.bmp
-games/smw_data/gfx/skins/wasabi_Wario.bmp
-games/smw_data/gfx/skins/wasabi_crab.bmp
-games/smw_data/gfx/skins/wasabi_excitebike.bmp
-games/smw_data/gfx/skins/wasabi_pit.bmp
-games/smw_data/gfx/skins/ym7_Grovyle.bmp
-games/smw_data/gfx/skins/ym7_Pikachu.bmp
-games/smw_data/gfx/skins/ym7_R.O.B.bmp
-games/smw_data/gfx/skins/ym7_Tingle.bmp
-games/smw_data/gfx/skins/ym7_Wario.bmp
-games/smw_data/gfx/skins/ym7_Yoshi.bmp
-games/smw_data/maps/
-games/smw_data/maps/0smw.map
-games/smw_data/maps/2skyfight.map
-games/smw_data/maps/3blockforts.map
-games/smw_data/maps/4highabove.map
-games/smw_data/maps/4matsy_Ballistic Boardwalks.map
-games/smw_data/maps/4matsy_Block Piles.map
-games/smw_data/maps/4matsy_Block! Block!.map
-games/smw_data/maps/4matsy_Bouncy Spikes.map
-games/smw_data/maps/4matsy_Cloud Props.map
-games/smw_data/maps/4matsy_Death From Above.map
-games/smw_data/maps/4matsy_Down With Donuts.map
-games/smw_data/maps/4matsy_Evening Fracas.map
-games/smw_data/maps/4matsy_Hanging Cactus Gardens.map
-games/smw_data/maps/4matsy_Heinous Heights.map
-games/smw_data/maps/4matsy_Islands of Questionable Support.map
-games/smw_data/maps/4matsy_Manic Mountain.map
-games/smw_data/maps/4matsy_Mishmash.map
-games/smw_data/maps/4matsy_Mountain King.map
-games/smw_data/maps/4matsy_Ninja Gaiden 1 - 1-1.map
-games/smw_data/maps/4matsy_Prepare to Joust Buzzard Bait.map
-games/smw_data/maps/4matsy_Rubber Room.map
-games/smw_data/maps/4matsy_Splitting Headache.map
-games/smw_data/maps/4matsy_Suspended Craziness.map
-games/smw_data/maps/4matsy_Traumatic Plains.map
-games/smw_data/maps/4matsy_Wacky Woods.map
-games/smw_data/maps/4matsy_Zelda 1 - 1st Quest Level 1.map
-games/smw_data/maps/4matsy_wirehenge.map
-games/smw_data/maps/5fall.map
-games/smw_data/maps/Big JM_City Streets.map
-games/smw_data/maps/FTG_Forest Temple.map
-games/smw_data/maps/FTG_Galaxy Split.map
-games/smw_data/maps/FTG_Purification.map
-games/smw_data/maps/FTG_The Arctic.map
-games/smw_data/maps/Fu3lman_mbc.map
-games/smw_data/maps/GG_Angry angels.map
-games/smw_data/maps/GG_Boo rondell.map
-games/smw_data/maps/GG_Boos Mansion.map
-games/smw_data/maps/GG_Bouncy Water.map
-games/smw_data/maps/GG_Bowsers Castle 2.map
-games/smw_data/maps/GG_Cheesy feet jungle.map
-games/smw_data/maps/GG_Cross Fire.map
-games/smw_data/maps/GG_Death Valley.map
-games/smw_data/maps/GG_Elevating Explosives.map
-games/smw_data/maps/GG_Fire Fortress.map
-games/smw_data/maps/GG_Flooded Sledgy area.map
-games/smw_data/maps/GG_Foltermethoden.map
-games/smw_data/maps/GG_From pole to pole.map
-games/smw_data/maps/GG_Ghost valley.map
-games/smw_data/maps/GG_Hilltop dodge.map
-games/smw_data/maps/GG_Hot Spot.map
-games/smw_data/maps/GG_Lorry loops.map
-games/smw_data/maps/GG_Molemania.map
-games/smw_data/maps/GG_Mushroom valley.map
-games/smw_data/maps/GG_Nearby the sky.map
-games/smw_data/maps/GG_Occupation.map
-games/smw_data/maps/GG_Petey summit.map
-games/smw_data/maps/GG_Phanto Fantastic.map
-games/smw_data/maps/GG_Pirhana Playground.map
-games/smw_data/maps/GG_Plant Fortress.map
-games/smw_data/maps/GG_Sandy Shelter.map
-games/smw_data/maps/GG_Shy Guy Factory 2.map
-games/smw_data/maps/GG_Shy Guy Factory.map
-games/smw_data/maps/GG_Submerged.map
-games/smw_data/maps/GG_The hotter the better.map
-games/smw_data/maps/GG_Triclyde Summit.map
-games/smw_data/maps/GG_Warios Castle.map
-games/smw_data/maps/GG_Water Fortress.map
-games/smw_data/maps/JJames_Blue Twilight.map
-games/smw_data/maps/JJames_Bullet Bill Air.map
-games/smw_data/maps/JJames_Clocks on Fire.map
-games/smw_data/maps/JJames_Plant Infestion.map
-games/smw_data/maps/Jacobthehero2006_battleblockarea.map
-games/smw_data/maps/LKA_Burn Yourself.map
-games/smw_data/maps/LKA_Sky of Fragrant Souls.map
-games/smw_data/maps/Link901_CrazyEyes.map
-games/smw_data/maps/Link901_Digital Doom.map
-games/smw_data/maps/Link901_DoomsDay.map
-games/smw_data/maps/Link901_MileHigh Madness.map
-games/smw_data/maps/Link901_Watery Day.map
-games/smw_data/maps/MrMister_Airshipz.map
-games/smw_data/maps/MrMister_Azul Montana.map
-games/smw_data/maps/MrMister_Battle City.map
-games/smw_data/maps/MrMister_Black Hole.map
-games/smw_data/maps/MrMister_Boatz.map
-games/smw_data/maps/MrMister_Bonus Paradise.map
-games/smw_data/maps/MrMister_Bonus Room.map
-games/smw_data/maps/MrMister_Bowsers Castle.map
-games/smw_data/maps/MrMister_Castle Armada.map
-games/smw_data/maps/MrMister_Castle Wall.map
-games/smw_data/maps/MrMister_Classicka.map
-games/smw_data/maps/MrMister_Clean Air.map
-games/smw_data/maps/MrMister_Coal Mine.map
-games/smw_data/maps/MrMister_Crevice Canyon.map
-games/smw_data/maps/MrMister_Danger Cave.map
-games/smw_data/maps/MrMister_Deep Water Mace.map
-games/smw_data/maps/MrMister_Destroyed Planet.map
-games/smw_data/maps/MrMister_Dirty Pipes.map
-games/smw_data/maps/MrMister_Flag Pole Jump Forever.map
-games/smw_data/maps/MrMister_Floating Cubes.map
-games/smw_data/maps/MrMister_Flooded Ghosts.map
-games/smw_data/maps/MrMister_Fluffy Falling.map
-games/smw_data/maps/MrMister_Flying Fortress.map
-games/smw_data/maps/MrMister_Forced Switch.map
-games/smw_data/maps/MrMister_Hill.map
-games/smw_data/maps/MrMister_Ice Shelf.map
-games/smw_data/maps/MrMister_Icy Fire Castle.map
-games/smw_data/maps/MrMister_Introid.map
-games/smw_data/maps/MrMister_Kirbyish.map
-games/smw_data/maps/MrMister_Lake Blues.map
-games/smw_data/maps/MrMister_Lunar Jungle.map
-games/smw_data/maps/MrMister_Madness Forest.map
-games/smw_data/maps/MrMister_MrIslandBattle.map
-games/smw_data/maps/MrMister_MrMountain.map
-games/smw_data/maps/MrMister_Scrolling Doom.map
-games/smw_data/maps/MrMister_Secret Pirate Cove.map
-games/smw_data/maps/MrMister_Snow Top.map
-games/smw_data/maps/MrMister_Tanx.map
-games/smw_data/maps/MrMister_The Mausoleum.map
-games/smw_data/maps/MrMister_Under Pressure.map
-games/smw_data/maps/MrMister_dark forest.map
-games/smw_data/maps/NMcCoy_1-3.map
-games/smw_data/maps/Peardian_Frozen Frenzy (MP5).map
-games/smw_data/maps/Peardian_Tower of the Sun.map
-games/smw_data/maps/Peardian_Volcanic Rain.map
-games/smw_data/maps/Peardian_alinos gate.map
-games/smw_data/maps/Peardian_arcterra gate.map
-games/smw_data/maps/Peardian_dare.map
-games/smw_data/maps/Peardian_pianta village - village.map
-games/smw_data/maps/Peardian_snowball fight.map
-games/smw_data/maps/Peardian_subcon.map
-games/smw_data/maps/Peardian_underwater.map
-games/smw_data/maps/Pikablu_Mushroom Kingdom.map
-games/smw_data/maps/SMW Fan_crazy castle.map
-games/smw_data/maps/SMW Fan_crystal caverns.map
-games/smw_data/maps/SMW Fan_shipwreck.map
-games/smw_data/maps/Sgraff_Bewarehouse.map
-games/smw_data/maps/Sgraff_Big Tree.map
-games/smw_data/maps/Sgraff_Haunted Temple.map
-games/smw_data/maps/Sgraff_Peach_s_Castle.map
-games/smw_data/maps/Sgraff_Skull Depot.map
-games/smw_data/maps/Sgraff_Storage Building.map
-games/smw_data/maps/Sgraff_Wood Pit.map
-games/smw_data/maps/Tanuki_Ambitions of the Abyss.map
-games/smw_data/maps/Tanuki_Aquatic Ruins.map
-games/smw_data/maps/Tanuki_Canyon with Waterfalls.map
-games/smw_data/maps/Tanuki_Der Ewige Garten.map
-games/smw_data/maps/Tanuki_Desert Canyon.map
-games/smw_data/maps/Tanuki_Dungeon Party.map
-games/smw_data/maps/Tanuki_FK Base.map
-games/smw_data/maps/Tanuki_Germany.map
-games/smw_data/maps/Tanuki_Ice Cave.map
-games/smw_data/maps/Tanuki_Jungle Bridge.map
-games/smw_data/maps/Tanuki_Lake Paradox.map
-games/smw_data/maps/Tanuki_Log Balancing.map
-games/smw_data/maps/Tanuki_Map in the Sky.map
-games/smw_data/maps/Tanuki_Moby Dick.map
-games/smw_data/maps/Tanuki_Room 824.map
-games/smw_data/maps/Tanuki_Scarlet Devil Library.map
-games/smw_data/maps/Tanuki_Sky Ruins.map
-games/smw_data/maps/Tanuki_SpaceIceLavaStuff.map
-games/smw_data/maps/Tanuki_Stairway.map
-games/smw_data/maps/Tanuki_Tewi Stage.map
-games/smw_data/maps/Xijar_1986.map
-games/smw_data/maps/Xijar_Boo is Back.map
-games/smw_data/maps/Xijar_Danger Canyon.map
-games/smw_data/maps/Xijar_Death Island.map
-games/smw_data/maps/Xijar_Derelict.map
-games/smw_data/maps/Xijar_Eighth Platform.map
-games/smw_data/maps/Xijar_Greden.map
-games/smw_data/maps/Xijar_Rat Race.map
-games/smw_data/maps/Xijar_Wonder Winterland.map
-games/smw_data/maps/Zadrave_Mario Fortress.map
-games/smw_data/maps/affe.map
-games/smw_data/maps/bcatcher_field day.map
-games/smw_data/maps/bcatcher_vanilla dome.map
-games/smw_data/maps/bcatcher_yoshi island.map
-games/smw_data/maps/bobmanperson_icy hills.map
-games/smw_data/maps/bobmanperson_wood.map
-games/smw_data/maps/cache/
-games/smw_data/maps/cache/.gitignore
-games/smw_data/maps/chaofan_classicon.map
-games/smw_data/maps/chomp_chomp beach.map
-games/smw_data/maps/clark_hidenseek.map
-games/smw_data/maps/coolman13714_green greens.map
-games/smw_data/maps/cristomarquez_abovethedomes.map
-games/smw_data/maps/cristomarquez_colorpile.map
-games/smw_data/maps/cristomarquez_darkrock.map
-games/smw_data/maps/cristomarquez_doublevision.map
-games/smw_data/maps/cristomarquez_fortress.map
-games/smw_data/maps/cristomarquez_ghosthouse.map
-games/smw_data/maps/cristomarquez_greenhill.map
-games/smw_data/maps/cristomarquez_icecube.map
-games/smw_data/maps/cristomarquez_indoor.map
-games/smw_data/maps/cristomarquez_pyramid.map
-games/smw_data/maps/cristomarquez_valley.map
-games/smw_data/maps/cristomarquez_warpzone.map
-games/smw_data/maps/eeliottheking_not so cave.map
-games/smw_data/maps/elude_aztec.map
-games/smw_data/maps/fm_nightvalley.map
-games/smw_data/maps/fm_olympianflora.map
-games/smw_data/maps/gki_castleout.map
-games/smw_data/maps/hazey_Bubble Bobble 2.map
-games/smw_data/maps/hazey_Iceland.map
-games/smw_data/maps/hazey_Jump n Bump.map
-games/smw_data/maps/hazey_Lava Island.map
-games/smw_data/maps/ikill4you_king_of_the_hill.map
-games/smw_data/maps/j rok_asinine.map
-games/smw_data/maps/j rok_begging for sumo again.map
-games/smw_data/maps/j rok_begging for sumo.map
-games/smw_data/maps/j rok_bring a towel.map
-games/smw_data/maps/j rok_circuit.map
-games/smw_data/maps/j rok_death to iggy.map
-games/smw_data/maps/j rok_divine intervention.map
-games/smw_data/maps/j rok_doubledown.map
-games/smw_data/maps/j rok_fastlane.map
-games/smw_data/maps/j rok_inebriation.map
-games/smw_data/maps/j rok_low bandwidth.map
-games/smw_data/maps/j rok_quzza.map
-games/smw_data/maps/j rok_salty dog.map
-games/smw_data/maps/j rok_toshinden.map
-games/smw_data/maps/jhero_blockfort.map
-games/smw_data/maps/justinio_pipes at sea.map
-games/smw_data/maps/max_greeny.map
-games/smw_data/maps/mcjimmy_CastleDashle.map
-games/smw_data/maps/mm64_as seen on tv.map
-games/smw_data/maps/mm64_dottedplus.map
-games/smw_data/maps/mp1_above the clouds.map
-games/smw_data/maps/mp1_bottle.map
-games/smw_data/maps/mp1_double-t.map
-games/smw_data/maps/mp1_hard to fly.map
-games/smw_data/maps/mp1_hello world.map
-games/smw_data/maps/mp1_iron.map
-games/smw_data/maps/mp1_quarterblock.map
-games/smw_data/maps/mp1_sky realm.map
-games/smw_data/maps/mp1_synchro.map
-games/smw_data/maps/mpinger_cliff.map
-games/smw_data/maps/mpinger_torch.map
-games/smw_data/maps/mpinger_tunnels.map
-games/smw_data/maps/mwtk_Gold.map
-games/smw_data/maps/mwtk_Van katoen.map
-games/smw_data/maps/mwtk_WhiteSky.map
-games/smw_data/maps/mwtk_Wolkje.map
-games/smw_data/maps/mwtk_symmetrical.map
-games/smw_data/maps/nitsuja_pillars of glory.map
-games/smw_data/maps/nitsuja_pipestruck.map
-games/smw_data/maps/nitsuja_reznor pit.map
-games/smw_data/maps/nitsuja_unfeeling.map
-games/smw_data/maps/nitsuja_wildlife.map
-games/smw_data/maps/pikawil_Hyrule Castle.map
-games/smw_data/maps/pikawil_King of the Hills.map
-games/smw_data/maps/pikawil_Kongo Jungle.map
-games/smw_data/maps/pikawil_Onett.map
-games/smw_data/maps/pikawil_Peach Castle.map
-games/smw_data/maps/pool_what.map
-games/smw_data/maps/screenshots/
-games/smw_data/maps/screenshots/Readme.txt
-games/smw_data/maps/sgraff_Buster_Beetle_s_Tower.map
-games/smw_data/maps/somestrangeflea_dropouts.map
-games/smw_data/maps/special/
-games/smw_data/maps/special/two52_special_bombboss_minigame.map
-games/smw_data/maps/special/two52_special_bonushouse.map
-games/smw_data/maps/special/two52_special_boxes_minigame.map
-games/smw_data/maps/special/two52_special_fireboss_minigame.map
-games/smw_data/maps/special/two52_special_hammerboss_minigame.map
-games/smw_data/maps/special/two52_special_pipe_minigame.map
-games/smw_data/maps/the errchenator_cliff tower.map
-games/smw_data/maps/the errchenator_crazy dungeon.map
-games/smw_data/maps/tiechiman_yarg.map
-games/smw_data/maps/tour/
-games/smw_data/maps/tour/README
-games/smw_data/maps/tour/Readme.txt
-games/smw_data/maps/tubesteak_coolnights.map
-games/smw_data/maps/tubesteak_dkjungle.map
-games/smw_data/maps/tubesteak_dune.map
-games/smw_data/maps/tubesteak_icecap.map
-games/smw_data/maps/tubesteak_lockout.map
-games/smw_data/maps/tubesteak_mountain waterfall.map
-games/smw_data/maps/tubesteak_piemont.map
-games/smw_data/maps/tubesteak_rainbowride.map
-games/smw_data/maps/tubesteak_shipwreck.map
-games/smw_data/maps/tubesteak_skyhigh.map
-games/smw_data/maps/tubesteak_ssbmjunglejapes.map
-games/smw_data/maps/tubesteak_thecourtyard.map
-games/smw_data/maps/tubesteak_treefort.map
-games/smw_data/maps/tubesteak_yoshisisland.map
-games/smw_data/maps/two52_Up In The Hills.map
-games/smw_data/maps/two52_cave.map
-games/smw_data/maps/two52_chainlink.map
-games/smw_data/maps/two52_manor.map
-games/smw_data/maps/two52_mountains.map
-games/smw_data/maps/two52_the pit.map
-games/smw_data/maps/username1_elevated.map
-games/smw_data/maps/username1_sunny hills.map
-games/smw_data/maps/username1_sunset hills.map
-games/smw_data/maps/ventuz_bounce2lava.map
-games/smw_data/maps/will_smb2.map
-games/smw_data/maps/will_smw.map
-games/smw_data/maps/will_topwar.map
-games/smw_data/maps/will_war2.map
-games/smw_data/maps/ym7_Sky Garden.map
-games/smw_data/maps/ym7_castor wilds.map
-games/smw_data/maps/ym7_jungle.map
-games/smw_data/maps/ym7_rainbowroadredux.map
-games/smw_data/maps/ym7_world1-2.map
-games/smw_data/music/
-games/smw_data/music/Overrides.txt
-games/smw_data/music/Readme.txt
-games/smw_data/music/game/
-games/smw_data/music/game/Standard/
-games/smw_data/music/game/Standard/Menu/
-games/smw_data/music/game/Standard/Menu/menu.ogg
-games/smw_data/music/game/Standard/Menu/tournamentmenu.ogg
-games/smw_data/music/game/Standard/Music.txt
-games/smw_data/music/game/Standard/SMB2_Boss.ogg
-games/smw_data/music/game/Standard/SMB2_Overground.ogg
-games/smw_data/music/game/Standard/SMB2_Underground.ogg
-games/smw_data/music/game/Standard/SMB3_Airship.ogg
-games/smw_data/music/game/Standard/SMB3_Athletic.ogg
-games/smw_data/music/game/Standard/SMB3_Battle.ogg
-games/smw_data/music/game/Standard/SMB3_Boss.ogg
-games/smw_data/music/game/Standard/SMB3_Castle.ogg
-games/smw_data/music/game/Standard/SMB3_Ghost.ogg
-games/smw_data/music/game/Standard/SMB3_Overground.ogg
-games/smw_data/music/game/Standard/SMB3_Sky.ogg
-games/smw_data/music/game/Standard/SMB3_Snow.ogg
-games/smw_data/music/game/Standard/SMB3_Underwater.ogg
-games/smw_data/music/game/Standard/SMB_Airship.ogg
-games/smw_data/music/game/Standard/SMB_Athletic.ogg
-games/smw_data/music/game/Standard/SMB_Battle.ogg
-games/smw_data/music/game/Standard/SMB_Bonus.ogg
-games/smw_data/music/game/Standard/SMB_Castle.ogg
-games/smw_data/music/game/Standard/SMB_Desert.ogg
-games/smw_data/music/game/Standard/SMB_Forest.ogg
-games/smw_data/music/game/Standard/SMB_Ghost.ogg
-games/smw_data/music/game/Standard/SMB_Overground.ogg
-games/smw_data/music/game/Standard/SMB_Snow.ogg
-games/smw_data/music/game/Standard/SMB_Underground.ogg
-games/smw_data/music/game/Standard/SMB_Underwater.ogg
-games/smw_data/music/game/Standard/Special/
-games/smw_data/music/game/Standard/Special/stageclear.ogg
-games/smw_data/music/game/Standard/Special/tournamentover.ogg
-games/smw_data/music/world/
-games/smw_data/music/world/Standard/
-games/smw_data/music/world/Standard/BonusGame.ogg
-games/smw_data/music/world/Standard/BowserCastle.ogg
-games/smw_data/music/world/Standard/DesertHill.ogg
-games/smw_data/music/world/Standard/GiantIsland.ogg
-games/smw_data/music/world/Standard/GrassLand.ogg
-games/smw_data/music/world/Standard/IceLand.ogg
-games/smw_data/music/world/Standard/Music.txt
-games/smw_data/music/world/Standard/MusicBox.ogg
-games/smw_data/music/world/Standard/PipeMaze.ogg
-games/smw_data/music/world/Standard/SeaSide.ogg
-games/smw_data/music/world/Standard/StarWorld.ogg
-games/smw_data/music/world/Standard/TheSky.ogg
-games/smw_data/music/world/Standard/TheSky2.ogg
-games/smw_data/music/world/Standard/ToadHouse.ogg
-games/smw_data/screenshots/
-games/smw_data/screenshots/Readme.txt
-games/smw_data/scripts/
-games/smw_data/scripts/CaptureTheFlagModeOptions.txt
-games/smw_data/scripts/ChickenModeOptions.txt
-games/smw_data/scripts/DominationModeOptions.txt
-games/smw_data/scripts/FrenzyModeOptions.txt
-games/smw_data/scripts/GameModeOptionsOnly.txt
-games/smw_data/scripts/JailModeOptions.txt
-games/smw_data/scripts/KingOfTheHillModeOptions.txt
-games/smw_data/scripts/NoModeOptions.txt
-games/smw_data/scripts/RaceModeOptions.txt
-games/smw_data/scripts/StarModeOptions.txt
-games/smw_data/scripts/StartMenuAutomation.txt
-games/smw_data/scripts/StompModeOptions.txt
-games/smw_data/scripts/SurvivalModeOptions.txt
-games/smw_data/scripts/TagModeOptions.txt
-games/smw_data/sfx/
-games/smw_data/sfx/announcer/
-games/smw_data/sfx/announcer/Mario/
-games/smw_data/sfx/announcer/Mario/enter-stage.wav
-games/smw_data/sfx/announcer/Mario/lets_go.wav
-games/smw_data/sfx/announcer/None.txt
-games/smw_data/sfx/packs/
-games/smw_data/sfx/packs/Classic/
-games/smw_data/sfx/packs/Classic/1up.wav
-games/smw_data/sfx/packs/Classic/area_tag.wav
-games/smw_data/sfx/packs/Classic/bob-omb.wav
-games/smw_data/sfx/packs/Classic/boomerang.wav
-games/smw_data/sfx/packs/Classic/breakblock.wav
-games/smw_data/sfx/packs/Classic/bulletbill.wav
-games/smw_data/sfx/packs/Classic/bump.wav
-games/smw_data/sfx/packs/Classic/burnup.wav
-games/smw_data/sfx/packs/Classic/cannon.wav
-games/smw_data/sfx/packs/Classic/capejump.wav
-games/smw_data/sfx/packs/Classic/chicken.wav
-games/smw_data/sfx/packs/Classic/clock.wav
-games/smw_data/sfx/packs/Classic/coin.wav
-games/smw_data/sfx/packs/Classic/collectpowerup.wav
-games/smw_data/sfx/packs/Classic/dcoin.wav
-games/smw_data/sfx/packs/Classic/death.wav
-games/smw_data/sfx/packs/Classic/enter-stage.wav
-games/smw_data/sfx/packs/Classic/feather.wav
-games/smw_data/sfx/packs/Classic/fireball.wav
-games/smw_data/sfx/packs/Classic/flamecannon.wav
-games/smw_data/sfx/packs/Classic/gameover.wav
-games/smw_data/sfx/packs/Classic/hit.wav
-games/smw_data/sfx/packs/Classic/impact.wav
-games/smw_data/sfx/packs/Classic/inventory.wav
-games/smw_data/sfx/packs/Classic/invincible.wav
-games/smw_data/sfx/packs/Classic/jump.wav
-games/smw_data/sfx/packs/Classic/kick.wav
-games/smw_data/sfx/packs/Classic/mapmove.wav
-games/smw_data/sfx/packs/Classic/mip.wav
-games/smw_data/sfx/packs/Classic/pause.wav
-games/smw_data/sfx/packs/Classic/pickup.wav
-games/smw_data/sfx/packs/Classic/powerdown.wav
-games/smw_data/sfx/packs/Classic/race.wav
-games/smw_data/sfx/packs/Classic/skid.wav
-games/smw_data/sfx/packs/Classic/slowdown.wav
-games/smw_data/sfx/packs/Classic/spit.wav
-games/smw_data/sfx/packs/Classic/springjump.wav
-games/smw_data/sfx/packs/Classic/sprout.wav
-games/smw_data/sfx/packs/Classic/starwarning.wav
-games/smw_data/sfx/packs/Classic/storedpowerup.wav
-games/smw_data/sfx/packs/Classic/storeitem.wav
-games/smw_data/sfx/packs/Classic/stun.wav
-games/smw_data/sfx/packs/Classic/superspring.wav
-games/smw_data/sfx/packs/Classic/switchpress.wav
-games/smw_data/sfx/packs/Classic/tail.wav
-games/smw_data/sfx/packs/Classic/throw.wav
-games/smw_data/sfx/packs/Classic/thunder.wav
-games/smw_data/sfx/packs/Classic/timewarning.wav
-games/smw_data/sfx/packs/Classic/transform.wav
-games/smw_data/sfx/packs/Classic/treasurechest.wav
-games/smw_data/sfx/packs/Classic/wand.wav
-games/smw_data/sfx/packs/Classic/warp.wav
-games/smw_data/sfx/packs/Classic/yoshi.wav
-games/smw_data/tours/
-games/smw_data/tours/0smw.txt
-games/smw_data/tours/Bowser.txt
-games/smw_data/tours/Flower.txt
-games/smw_data/tours/Koopa.txt
-games/smw_data/tours/Lost Levels.txt
-games/smw_data/tours/Luigi.txt
-games/smw_data/tours/Mario.txt
-games/smw_data/tours/Mushroom.txt
-games/smw_data/tours/Princess.txt
-games/smw_data/tours/Special.txt
-games/smw_data/tours/Star.txt
-games/smw_data/tours/Yoshi.txt
-games/smw_data/worlds/
-games/smw_data/worlds/Big JM_Mixed River.txt
-games/smw_data/worlds/Contest/
-games/smw_data/worlds/Contest/4matsy_Moonbase Madness.map
-games/smw_data/worlds/Contest/4matsy_Using ABXY to Fly It.map
-games/smw_data/worlds/Contest/Agoat_Industrial Madness.map
-games/smw_data/worlds/Contest/Alec2001_Alecs castle inverted.map
-games/smw_data/worlds/Contest/Alex_Abandoned Planet.map
-games/smw_data/worlds/Contest/Alex_Warehouse.map
-games/smw_data/worlds/Contest/Big JM_Castle 72.map
-games/smw_data/worlds/Contest/Big JM_Grassy Bonus.map
-games/smw_data/worlds/Contest/Big JM_House of Ancients.map
-games/smw_data/worlds/Contest/Big JM_The Skin Factory.map
-games/smw_data/worlds/Contest/Chaos_Castle of Chaos.map
-games/smw_data/worlds/Contest/Chaos_Haunted House.map
-games/smw_data/worlds/Contest/DXMachina_DXMcastle.map
-games/smw_data/worlds/Contest/DarkSpirit_Air Bombers.map
-games/smw_data/worlds/Contest/DrHammer_Block Testing Grounds.map
-games/smw_data/worlds/Contest/DrHammer_Pirates of the Mushroom Kingdom.map
-games/smw_data/worlds/Contest/FTG_A Fish Out Of Water.map
-games/smw_data/worlds/Contest/FTG_Dark Castle.map
-games/smw_data/worlds/Contest/FTG_Smelting Pot.map
-games/smw_data/worlds/Contest/FTG_Wharf_Rats.map
-games/smw_data/worlds/Contest/Firekirby_Pirate battle.map
-games/smw_data/worlds/Contest/GG_G-Guy-s Polar Base.map
-games/smw_data/worlds/Contest/GG_On Drugs.map
-games/smw_data/worlds/Contest/GG_Store for this and that.map
-games/smw_data/worlds/Contest/GG_Vivid Castle.map
-games/smw_data/worlds/Contest/Gadouken_castle!.map
-games/smw_data/worlds/Contest/GallikYoshi_Lunar Bridge.map
-games/smw_data/worlds/Contest/HT_Death Ship.map
-games/smw_data/worlds/Contest/JFrog_Castle o Awesome.map
-games/smw_data/worlds/Contest/JJames_Bonusful.map
-games/smw_data/worlds/Contest/JJames_Chain Link Chamber.map
-games/smw_data/worlds/Contest/JJames_Delivery Line.map
-games/smw_data/worlds/Contest/JJames_Ghostly Hall.map
-games/smw_data/worlds/Contest/JJames_Orions Belt.map
-games/smw_data/worlds/Contest/JJames_Rabbit Hole.map
-games/smw_data/worlds/Contest/Jugabro_Childs Play.map
-games/smw_data/worlds/Contest/LKA_Galaxy in a Pot.map
-games/smw_data/worlds/Contest/LKA_Nameless Factory.map
-games/smw_data/worlds/Contest/LKA_Unnamed Castle Map.map
-games/smw_data/worlds/Contest/M3_SS Freedom Airship.map
-games/smw_data/worlds/Contest/MC Jimmy_Blastard.map
-games/smw_data/worlds/Contest/MC Jimmy_FrozenSomething.map
-games/smw_data/worlds/Contest/MC Jimmy_I guess Ill give it a Chance.map
-games/smw_data/worlds/Contest/MC Jimmy_Only One Will Stand Tall.map
-games/smw_data/worlds/Contest/MC Jimmy_SpaceMy.map
-games/smw_data/worlds/Contest/MegaTailzChao_Bonus Cave.map
-games/smw_data/worlds/Contest/MegaTailzChao_Friendly Factory.map
-games/smw_data/worlds/Contest/MegaTailzChao_UnderwaterCastle.map
-games/smw_data/worlds/Contest/MrMister_Bonus Paradise.map
-games/smw_data/worlds/Contest/MrMister_Flooded Ghosts.map
-games/smw_data/worlds/Contest/MrMister_Flying Fortress.map
-games/smw_data/worlds/Contest/MrMister_Ice Shelf.map
-games/smw_data/worlds/Contest/MrMister_Icy Fire Castle.map
-games/smw_data/worlds/Contest/MrSlayer_Flip Room.map
-games/smw_data/worlds/Contest/NiGHTS_Hazardous Castle.map
-games/smw_data/worlds/Contest/Night213_Ice Fortress.map
-games/smw_data/worlds/Contest/Night213_Nights Castle.map
-games/smw_data/worlds/Contest/Night213_Nights Cruiser.map
-games/smw_data/worlds/Contest/Nova_Airship Galley.map
-games/smw_data/worlds/Contest/Onijustin_AirshipXD.map
-games/smw_data/worlds/Contest/Onijustin_blox.map
-games/smw_data/worlds/Contest/Onijustin_lunarbase.map
-games/smw_data/worlds/Contest/Pikaboo_Caution! Moving Parts.map
-games/smw_data/worlds/Contest/Pikaboo_Secret Civilization.map
-games/smw_data/worlds/Contest/Roxas_Question block.map
-games/smw_data/worlds/Contest/Roxas_Spacemap.map
-games/smw_data/worlds/Contest/Scienstien_Bonus Puzzle.map
-games/smw_data/worlds/Contest/Tanuki_Another storm to remote control.map
-games/smw_data/worlds/Contest/Tanuki_In The Air.map
-games/smw_data/worlds/Contest/Tanuki_Rotting like a Bonus Room.map
-games/smw_data/worlds/Contest/ThunderBro_bonus circus.map
-games/smw_data/worlds/Contest/Thunderbro_IndustialZone.map
-games/smw_data/worlds/Contest/Turndawg107_Phendrana Cave.map
-games/smw_data/worlds/Contest/Turndawg107_Piston Panic.map
-games/smw_data/worlds/Contest/Twilight_Blocking Ground.map
-games/smw_data/worlds/Contest/Twilight_Ghosty.map
-games/smw_data/worlds/Contest/WeeTacos_End of the Line.map
-games/smw_data/worlds/Contest/WeeTacos_Familiar Ending.map
-games/smw_data/worlds/Contest/Zadrave_CarCrusher.map
-games/smw_data/worlds/Contest/Zekobah_AIRSHIPS IS HEALTTHY EAT DEM!.map
-games/smw_data/worlds/Contest/gadouken_0factory.map
-games/smw_data/worlds/Contest/gadouken_pirates.map
-games/smw_data/worlds/Contest/gadouken_space.map
-games/smw_data/worlds/Contest/h4gm4_somemoon.map
-games/smw_data/worlds/Contest/jfrog_aisland.map
-games/smw_data/worlds/Contest/jfrog_ghostship.map
-games/smw_data/worlds/Contest/pottmannen_ghost house.map
-games/smw_data/worlds/Contest/pottmannen_im freezing.map
-games/smw_data/worlds/Contest/pottmannen_outer space thingie.map
-games/smw_data/worlds/Contest/smwfan_Space Pods.map
-games/smw_data/worlds/Contest/specialkid_Mt Bananavision!.map
-games/smw_data/worlds/Contest/ssf_Block Mayhem.map
-games/smw_data/worlds/Contest/ssf_air battle.map
-games/smw_data/worlds/Contest/ssf_freaky home.map
-games/smw_data/worlds/Contest/ssf_smworld bonus.map
-games/smw_data/worlds/Contest/talas_PiratesCookie.map
-games/smw_data/worlds/Contest/theBOMB001_Big Dipper_.map
-games/smw_data/worlds/Contest/theBOMB001_Melting Artic_.map
-games/smw_data/worlds/Contest/theBOMB001_Shipboard_.map
-games/smw_data/worlds/Contest/two52_inverted airship.map
-games/smw_data/worlds/Contest/two52_lunar pool.map
-games/smw_data/worlds/Contest/xutawoo_Bonus I Think.map
-games/smw_data/worlds/Contest/xutawoo_McMishima-s.map
-games/smw_data/worlds/Contest/xutawoo_Pot Luck Castle.map
-games/smw_data/worlds/Contest/ylle_another jungle castle.map
-games/smw_data/worlds/Contest/ylle_bawnus.map
-games/smw_data/worlds/Contest_Airship World.txt
-games/smw_data/worlds/Contest_Arctic World.txt
-games/smw_data/worlds/Contest_Block World.txt
-games/smw_data/worlds/Contest_Bonus World.txt
-games/smw_data/worlds/Contest_Castle World.txt
-games/smw_data/worlds/Contest_Ghost House.txt
-games/smw_data/worlds/Contest_Industrial World.txt
-games/smw_data/worlds/Contest_Pirate World.txt
-games/smw_data/worlds/Contest_Space World.txt
-games/smw_data/worlds/Flurry World/
-games/smw_data/worlds/Flurry World/Cirtty.map
-games/smw_data/worlds/Flurry World/Dried Out Fortress.map
-games/smw_data/worlds/Flurry World/Entrance to Flurlin.map
-games/smw_data/worlds/Flurry World/Eye lakes.map
-games/smw_data/worlds/Flurry World/Flurlin.map
-games/smw_data/worlds/Flurry World/Flurrand.map
-games/smw_data/worlds/Flurry World/Flurry Beach.map
-games/smw_data/worlds/Flurry World/Flurry Castle.map
-games/smw_data/worlds/Flurry World/Front of Castle.map
-games/smw_data/worlds/Flurry World/Storage.map
-games/smw_data/worlds/Flurry World/The Icy Sewers.map
-games/smw_data/worlds/JJames_Kingdom High.txt
-games/smw_data/worlds/KingPepe_Flurry World.txt
-games/smw_data/worlds/KingdomHigh/
-games/smw_data/worlds/KingdomHigh/JJames_Battle Hill.map
-games/smw_data/worlds/KingdomHigh/JJames_Breakable Layers.map
-games/smw_data/worlds/KingdomHigh/JJames_BumpIt.map
-games/smw_data/worlds/KingdomHigh/JJames_Conveyer World.map
-games/smw_data/worlds/KingdomHigh/JJames_Desert Hill.map
-games/smw_data/worlds/KingdomHigh/JJames_Evil Mask.map
-games/smw_data/worlds/KingdomHigh/JJames_Final Air.map
-games/smw_data/worlds/KingdomHigh/JJames_From Heat Wave.map
-games/smw_data/worlds/KingdomHigh/JJames_Grassy Knot.map
-games/smw_data/worlds/KingdomHigh/JJames_Grey Desert.map
-games/smw_data/worlds/KingdomHigh/JJames_Haunted Unnerving.map
-games/smw_data/worlds/KingdomHigh/JJames_Ice Floe.map
-games/smw_data/worlds/KingdomHigh/JJames_Koopa Grounds.map
-games/smw_data/worlds/KingdomHigh/JJames_Lava Pot.map
-games/smw_data/worlds/KingdomHigh/JJames_Mountain of Faith.map
-games/smw_data/worlds/KingdomHigh/JJames_Mushpoie.map
-games/smw_data/worlds/KingdomHigh/JJames_Note Beach.map
-games/smw_data/worlds/KingdomHigh/JJames_Pipe Forest.map
-games/smw_data/worlds/KingdomHigh/JJames_Piped In.map
-games/smw_data/worlds/KingdomHigh/JJames_Pyramid Vertex.map
-games/smw_data/worlds/KingdomHigh/JJames_Quicksand Ruins.map
-games/smw_data/worlds/KingdomHigh/JJames_Resurgance.map
-games/smw_data/worlds/KingdomHigh/JJames_Ring of Rotodisc.map
-games/smw_data/worlds/KingdomHigh/JJames_River of Magma.map
-games/smw_data/worlds/KingdomHigh/JJames_Spike Fortress.map
-games/smw_data/worlds/KingdomHigh/JJames_Submergence.map
-games/smw_data/worlds/KingdomHigh/JJames_Sunken Ship.map
-games/smw_data/worlds/KingdomHigh/JJames_Switch Doors.map
-games/smw_data/worlds/KingdomHigh/JJames_Topside.map
-games/smw_data/worlds/KingdomHigh/JJames_Transparent Land.map
-games/smw_data/worlds/KingdomHigh/JJames_Treasure Chest.map
-games/smw_data/worlds/MixedRiver/
-games/smw_data/worlds/MixedRiver/Big JM_Ancient castle.map
-games/smw_data/worlds/MixedRiver/Big JM_Castle Cavern.map
-games/smw_data/worlds/MixedRiver/Big JM_Corrupted Road.map
-games/smw_data/worlds/MixedRiver/Big JM_Dark mountain.map
-games/smw_data/worlds/MixedRiver/Big JM_Death Castle.map
-games/smw_data/worlds/MixedRiver/Big JM_Forest fun.map
-games/smw_data/worlds/MixedRiver/Big JM_Golden Fort.map
-games/smw_data/worlds/MixedRiver/Big JM_Grassy Canyon.map
-games/smw_data/worlds/MixedRiver/Big JM_Green Pastures.map
-games/smw_data/worlds/MixedRiver/Big JM_Guardian Fortress.map
-games/smw_data/worlds/MixedRiver/Big JM_Ice Flow.map
-games/smw_data/worlds/MixedRiver/Big JM_Ice Spire.map
-games/smw_data/worlds/MixedRiver/Big JM_Icy Plateau.map
-games/smw_data/worlds/MixedRiver/Big JM_Into the darkness.map
-games/smw_data/worlds/MixedRiver/Big JM_Plains of old.map
-games/smw_data/worlds/MixedRiver/Big JM_Shiver Spire.map
-games/smw_data/worlds/MixedRiver/Big JM_Starry Path.map
-games/smw_data/worlds/MixedRiver/Big JM_The Dark Tower.map
-games/smw_data/worlds/MixedRiver/Big JM_Tower of light.map
-games/smw_data/worlds/MrIsland/
-games/smw_data/worlds/MrIsland/MrMister_MrIsland1.map
-games/smw_data/worlds/MrIsland/MrMister_MrIsland2.map
-games/smw_data/worlds/MrIsland/MrMister_MrIsland3.map
-games/smw_data/worlds/MrIsland/MrMister_MrIsland4.map
-games/smw_data/worlds/MrIsland/MrMister_MrIsland5.map
-games/smw_data/worlds/MrIsland/MrMister_MrIsland6.map
-games/smw_data/worlds/MrIsland/MrMister_MrIslandBattle.map
-games/smw_data/worlds/MrIsland/MrMister_MrIslandCastle.map
-games/smw_data/worlds/MrIsland/MrMister_MrIslandFort.map
-games/smw_data/worlds/MrIsland/MrMister_MrIslandGhost.map
-games/smw_data/worlds/MrMister_MrIsland.txt
-games/smw_data/worlds/MrMister_Simple.txt
-games/smw_data/worlds/SMB3.txt
-games/smw_data/worlds/Simple/
-games/smw_data/worlds/Simple/MrMister_Bowsers Castle.map
-games/smw_data/worlds/Simple/MrMister_Castle Wall.map
-games/smw_data/worlds/Simple/MrMister_Classicka.map
-games/smw_data/worlds/Simple/MrMister_Coal Mine.map
-games/smw_data/worlds/Simple/MrMister_Crevice Canyon.map
-games/smw_data/worlds/Simple/MrMister_Flooded Ghosts.map
-games/smw_data/worlds/Simple/MrMister_Hill.map
-games/smw_data/worlds/Simple/MrMister_MrIslandBattle.map
-games/smw_data/worlds/Sky World/
-games/smw_data/worlds/Sky World/Smb3 1-hammer.map
-games/smw_data/worlds/Sky World/Smb3 5-hammer.map
-games/smw_data/worlds/Sky World/smb3 5-1.map
-games/smw_data/worlds/Sky World/smb3 5-2.map
-games/smw_data/worlds/Sky World/smb3 5-3.map
-games/smw_data/worlds/Sky World/smb3 5-4.map
-games/smw_data/worlds/Sky World/smb3 5-5.map
-games/smw_data/worlds/Sky World/smb3 5-6.map
-games/smw_data/worlds/Sky World/smb3 5-7.map
-games/smw_data/worlds/Sky World/smb3 5-8.map
-games/smw_data/worlds/Sky World/smb3 5-9.map
-games/smw_data/worlds/Sky World/smb3 5-airship.map
-games/smw_data/worlds/Sky World/smb3 5-fortress1.map
-games/smw_data/worlds/Sky World/smb3 5-fortress2.map
-games/smw_data/worlds/Sky World/smb3 5-tower.map
-games/smw_data/worlds/Smb3/
-games/smw_data/worlds/Smb3/Big JM_Grassland 1.map
-games/smw_data/worlds/Smb3/Big JM_Grassland 2.map
-games/smw_data/worlds/Smb3/Big JM_Grassland 3.map
-games/smw_data/worlds/Smb3/Big JM_Grassland 4.map
-games/smw_data/worlds/Smb3/Big JM_Grassland 5.map
-games/smw_data/worlds/Smb3/Big JM_Grassland 6.map
-games/smw_data/worlds/Smb3/Big JM_Grassland airship.map
-games/smw_data/worlds/Smb3/Big JM_Grassland fortress.map
-games/smw_data/worlds/screenshots/
-games/smw_data/worlds/screenshots/Readme.txt
-share/games/
-share/games/smw/
+@bin bin/smw
+@bin bin/smw-leveledit
+@bin bin/smw-worldedit
+share/smw/
+share/smw/data/
+share/smw/data/filters/
+share/smw/data/filters/Capture The Flag.txt
+share/smw/data/filters/Simple.txt
+share/smw/data/gfx/
+share/smw/data/gfx/docs/
+share/smw/data/gfx/docs/b01.png
+share/smw/data/gfx/docs/b02.png
+share/smw/data/gfx/docs/b03.png
+share/smw/data/gfx/docs/b04.png
+share/smw/data/gfx/docs/b05.png
+share/smw/data/gfx/docs/b06.png
+share/smw/data/gfx/docs/b07.png
+share/smw/data/gfx/docs/b08.png
+share/smw/data/gfx/docs/b09.png
+share/smw/data/gfx/docs/b10.png
+share/smw/data/gfx/docs/b11.png
+share/smw/data/gfx/docs/b12.png
+share/smw/data/gfx/docs/b13.png
+share/smw/data/gfx/docs/b14.png
+share/smw/data/gfx/docs/b15.png
+share/smw/data/gfx/docs/i01.png
+share/smw/data/gfx/docs/i02.png
+share/smw/data/gfx/docs/i03.png
+share/smw/data/gfx/docs/i04.png
+share/smw/data/gfx/docs/i05.png
+share/smw/data/gfx/docs/i06.png
+share/smw/data/gfx/docs/i07.png
+share/smw/data/gfx/docs/i08.png
+share/smw/data/gfx/docs/i09.png
+share/smw/data/gfx/docs/i10.png
+share/smw/data/gfx/docs/i11.png
+share/smw/data/gfx/docs/i12.png
+share/smw/data/gfx/docs/i13.png
+share/smw/data/gfx/docs/i14.png
+share/smw/data/gfx/docs/i15.png
+share/smw/data/gfx/docs/i16.png
+share/smw/data/gfx/docs/i17.png
+share/smw/data/gfx/docs/i18.png
+share/smw/data/gfx/docs/i19.png
+share/smw/data/gfx/docs/i20.png
+share/smw/data/gfx/docs/i21.png
+share/smw/data/gfx/docs/i22.png
+share/smw/data/gfx/docs/i23.png
+share/smw/data/gfx/docs/i24.png
+share/smw/data/gfx/docs/i25.png
+share/smw/data/gfx/docs/i26.png
+share/smw/data/gfx/docs/i27.png
+share/smw/data/gfx/docs/i28.png
+share/smw/data/gfx/docs/i29.png
+share/smw/data/gfx/docs/i30.png
+share/smw/data/gfx/docs/i31.png
+share/smw/data/gfx/docs/i32.png
+share/smw/data/gfx/docs/i33.png
+share/smw/data/gfx/docs/i34.png
+share/smw/data/gfx/docs/i35.png
+share/smw/data/gfx/docs/i36.png
+share/smw/data/gfx/docs/i37.png
+share/smw/data/gfx/docs/i38.png
+share/smw/data/gfx/docs/i39.png
+share/smw/data/gfx/docs/i40.png
+share/smw/data/gfx/docs/i41.png
+share/smw/data/gfx/docs/i42.png
+share/smw/data/gfx/docs/i43.png
+share/smw/data/gfx/docs/i44.png
+share/smw/data/gfx/docs/i45.png
+share/smw/data/gfx/docs/i46.png
+share/smw/data/gfx/docs/i47.png
+share/smw/data/gfx/docs/i48.png
+share/smw/data/gfx/docs/i49.png
+share/smw/data/gfx/docs/i50.png
+share/smw/data/gfx/docs/i51.png
+share/smw/data/gfx/docs/m01.png
+share/smw/data/gfx/docs/m02.png
+share/smw/data/gfx/docs/m03.png
+share/smw/data/gfx/docs/m04.png
+share/smw/data/gfx/docs/m05.png
+share/smw/data/gfx/docs/m06.png
+share/smw/data/gfx/docs/m07.png
+share/smw/data/gfx/docs/m08.png
+share/smw/data/gfx/docs/m09.png
+share/smw/data/gfx/docs/m10.png
+share/smw/data/gfx/docs/m11.png
+share/smw/data/gfx/docs/m12.png
+share/smw/data/gfx/docs/m13.png
+share/smw/data/gfx/docs/m14.png
+share/smw/data/gfx/docs/m15.png
+share/smw/data/gfx/docs/m16.png
+share/smw/data/gfx/docs/m17.png
+share/smw/data/gfx/docs/m18.png
+share/smw/data/gfx/docs/m19.png
+share/smw/data/gfx/docs/m20.png
+share/smw/data/gfx/docs/m21.png
+share/smw/data/gfx/docs/splash.png
+share/smw/data/gfx/docs/ss01.png
+share/smw/data/gfx/docs/ss02.png
+share/smw/data/gfx/docs/ss03.png
+share/smw/data/gfx/docs/ss04.png
+share/smw/data/gfx/docs/ss05.png
+share/smw/data/gfx/docs/ss06.png
+share/smw/data/gfx/docs/ss07.png
+share/smw/data/gfx/docs/ss08.png
+share/smw/data/gfx/docs/ss09.png
+share/smw/data/gfx/docs/ss10.png
+share/smw/data/gfx/docs/ss11.png
+share/smw/data/gfx/docs/ss12.png
+share/smw/data/gfx/docs/ss13.png
+share/smw/data/gfx/docs/ttypes.png
+share/smw/data/gfx/leveleditor/
+share/smw/data/gfx/leveleditor/leveleditor_background_levels.png
+share/smw/data/gfx/leveleditor/leveleditor_dialog.png
+share/smw/data/gfx/leveleditor/leveleditor_eyecandy.png
+share/smw/data/gfx/leveleditor/leveleditor_hidden_marker.png
+share/smw/data/gfx/leveleditor/leveleditor_maphazard_buttons.png
+share/smw/data/gfx/leveleditor/leveleditor_mapitems.png
+share/smw/data/gfx/leveleditor/leveleditor_mapitems_preview.png
+share/smw/data/gfx/leveleditor/leveleditor_mapitems_thumbnail.png
+share/smw/data/gfx/leveleditor/leveleditor_mapnotfound.png
+share/smw/data/gfx/leveleditor/leveleditor_noitemspawntile.png
+share/smw/data/gfx/leveleditor/leveleditor_nospawntile.png
+share/smw/data/gfx/leveleditor/leveleditor_pathtype_buttons.png
+share/smw/data/gfx/leveleditor/leveleditor_platform.png
+share/smw/data/gfx/leveleditor/leveleditor_platform_path.png
+share/smw/data/gfx/leveleditor/leveleditor_platformstarttile.png
+share/smw/data/gfx/leveleditor/leveleditor_powerup_selector.png
+share/smw/data/gfx/leveleditor/leveleditor_selectedtile.png
+share/smw/data/gfx/leveleditor/leveleditor_shade.png
+share/smw/data/gfx/leveleditor/leveleditor_tile_types.png
+share/smw/data/gfx/leveleditor/leveleditor_tileset_levels.png
+share/smw/data/gfx/leveleditor/leveleditor_transparent_tiles.png
+share/smw/data/gfx/leveleditor/leveleditor_warp.png
+share/smw/data/gfx/leveleditor/leveleditor_warp_preview.png
+share/smw/data/gfx/leveleditor/leveleditor_warp_thumbnail.png
+share/smw/data/gfx/leveleditor/leveleditor_world_path.png
+share/smw/data/gfx/leveleditor/menu_plain_field.png
+share/smw/data/gfx/leveleditor/menu_selectfield.png
+share/smw/data/gfx/leveleditor/vehicle_icons.png
+share/smw/data/gfx/packs/
+share/smw/data/gfx/packs/Classic/
+share/smw/data/gfx/packs/Classic/awards/
+share/smw/data/gfx/packs/Classic/awards/award.png
+share/smw/data/gfx/packs/Classic/awards/killsinrow.png
+share/smw/data/gfx/packs/Classic/awards/killsinrownumbers.png
+share/smw/data/gfx/packs/Classic/awards/souls.png
+share/smw/data/gfx/packs/Classic/awards/soulspawn.png
+share/smw/data/gfx/packs/Classic/backgrounds/
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_AirshipInterior.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_AirshipInterior2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_ArenaClash.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Audience.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Black.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_CityScape.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_DeepDownInACastle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Doomship.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_DoomshipClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_DoomshipClouds2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_FactoryInside.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_FactoryInside2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_FactoryInside3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_FiendFire.PNG
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_GoombaPillars.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_GoombaPillars2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_GoombaPillars3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_GoombaPillarsNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_GoombaPillarsSnow.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InTheBrickHouse.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InTheFactory.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InTheFactory2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InTheFactory3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InTheFactory4.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_InsideTheGiantTree.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_MBPipes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Manor.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_MiscBattle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_MiscBattle2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_MiscBattle3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_MiscBattle4.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_MonumentInTheBackground.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_MushroomsAngryClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Ring.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_TreeTrunk.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Wall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Warehouse.png
+share/smw/data/gfx/packs/Classic/backgrounds/Battle_Warehouse2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_BlueDots.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Bonus.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_BonusGame.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_BonusRoom.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_BonusRoom2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Bricks.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_BrownWall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_ClassicItems.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_CoinHall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_DKHammer.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Fire.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_GrayNightSky.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_GreenStar.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_HillsAtNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_HillsAtNight2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_InTheTreasureHouse.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_InTheTreasureHouse2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Intro.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Library.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Lightening.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Moonlight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Mushroom.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Mystery.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_NightSky.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_NightSky2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_PeachCastle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Picross.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_PipeMinigame.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_PowerupB.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_PowerupP.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_PurpleMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_RainbowStars.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Safari.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Space.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_StarryMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_StarryNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_StarryNight2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Stars.png
+share/smw/data/gfx/packs/Classic/backgrounds/Bonus_Stars2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_BowserCastle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_BowserCastle2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_BowserCastle3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Castle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_CastleColumns.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_CastleHall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_CastleHall2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_CastleHall3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_CastleHall4.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_CastleHall5.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_DarkRoom.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_DistantClimb.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Dungeon.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Fortress.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Fortress2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_GoldBowser.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_GoombaHall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_InsideTower.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_LavaGlow.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_MainHall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_OuterCastleWalls.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Oversee.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_TwoWindows.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_VileCorridor.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Walls.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Walls2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_Walls3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Castle_WarioThwompCastle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_AboveTheClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_AdvanceClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_BeanStocks.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_Beanstalks.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_CityInTheSky.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_CityInTheSky2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_CityInTheSky3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_CloudHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_CloudSky.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_CloudSkyNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_Clouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_Clouds1.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_Clouds2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_Clouds3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_Clouds3a.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_CloudsInTheNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_KirbyClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_LakituClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_MoreClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_SideClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_SmilingClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Clouds_StageClear.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_BigPyramid.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_Bricks.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_Canyon.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_CanyonTemple.PNG
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_Desert.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_Desert2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_DesertByNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_DryPyramids.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_GrassDunes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_HillsAtNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_LowDunes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_LowPyramids.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_MountainSide.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_Oasis.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_OasisPyramid.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_PokeyDunes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_Pyramid.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_Pyramids.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_StarryPyramids.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_TempleByTheMountain.png
+share/smw/data/gfx/packs/Classic/backgrounds/Desert_YoshiSphinx.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_AbandonedHouse.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_DistantManor.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_EerieMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse4.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse5.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostHouse6.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostHouseOutside.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostManor.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_GhostManor2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_MistyLand.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_ShadyClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Ghost_SpookyCellar.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_AboveCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_AboveTheTrees4.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Airway.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_AutumnMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_BlueHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_BowserLand.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_BushLands.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ButterCookieHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ByTheHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_CastleWall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_CastleWallDark.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ChocolateMountain.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ChocolateMountain2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ChocolateMountain3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_CityScape.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Classic.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Classic2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ClassicNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Cookie.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Cookie2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Cookie3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Courtyard.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_CrossSection.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_DistantMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_DistantMountains2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Forest.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ForestalWork.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_GrassLand.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_GreenHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_GreenHills2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_GreenHillsAndClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_GreenMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_HillsBrown.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_HillsGreen.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheDeepDarkTrees.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheDeepTrees.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheTrees.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheTrees2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheTrees3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheTrees4.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheTrees5.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_InTheTrees6.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_JaggedBeach.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_JaggedBeach2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Jungle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_JungleTop.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_MarioToyFactory.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Marsh.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_MountainsGreen.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_MountainsGreen2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_MushroomKingdom.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_PeachCastle.PNG
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Picross.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_PiranhaPlantGarden.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_SafariHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_SandCastles.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_ShyguyCrew.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_SuperKoopaHill.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Trees.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Trees2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_TreesAtNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Volcanic.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_Volcanic2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_WigglerForest.png
+share/smw/data/gfx/packs/Classic/backgrounds/Land_YoshisAtTheLake.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platform_MushroomTops.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_AnOminousWorld.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_AnOminousWorld2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_BlueSpottedHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_BlueSpottedHills2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_BlueStarrySky.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_BrightStars.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_ChocolateMountain.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_ChocolateMountain2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_ChocolateMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_CloudTrail.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_CloudsAndWaterfalls.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_ColorfulHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_DistantClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_DuskOcean.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_EvilClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_ForestHillSkies.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_GreenSpottedHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_GreenSpottedHills2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_GreenStarrySky.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_HighAboveOcean.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_HillyLava.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_HillyWater.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_JaggedCloudyMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_JaggedForestMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_JaggedVolcanoLeak.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_JaggedVolcanos.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_KirbyOrangeMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_KirbyPurpleMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_LavaLake.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_Moonlight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_Mountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_MushroomClouds.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_Mushrooms.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_MushroomsAtNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_NightMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_NorthernLights.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_Pipeland.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_SafariHigh.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_SeaMushrooms.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_StripedMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_TallHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_UpInTheTreetop.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_UpInTheTreetop2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_Waterfalls.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_Waterfalls2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_Waterfalls3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Platforms_WaterfallsLeak.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_BlueJaggedStones.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_BlueJaggedStones2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_IceCavern.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_JaggedIce.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones4.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_NightFrozenMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_SnowCaps.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_SnowCovered.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_SnowMountain.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_SnowTrees.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_SnowyHillsAtNight.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_SnowyMountains.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_WhiteHills.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_WhiteRockies.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_WinterForestHillSkies.png
+share/smw/data/gfx/packs/Classic/backgrounds/Snow_hillssnow.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_BlarggCavern.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_BrownCave.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_BrownRock.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_BrownRockWall.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_BrownRockWall2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_Cave.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_Cave2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_ColdCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_CrystalMines.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_DarkPipes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_DarkPipes2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_DeepJungle.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_DeepJungle2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_EgyptianPillars.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_EgyptianPillars2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_FrozenRex.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_GreyRock.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_IceCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_IceRock.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_IcyPillars.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_IcyPillars2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_InsideVolcano.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_InsideVolcano2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_LayeredCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_LayeredCaves2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_LayeredMushroomCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_LightPipes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_MB_Pipes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_MagmaPipes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_Mine.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_MurkyCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_RedCoal.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_RockWallAndPlants.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_RockWallAndPlantsDark.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_RockyCave.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_Sewers.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_SpectreCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_UnderTheGround.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_UnderTheGround2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_VolcanoCaves.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underground_blackbossbg.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_BeneathTheDeepDark.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_BeneathTheSurface.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_BeneathTheSurface2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_DarkWaters.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_DeepGlowWaters.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_DeepUnderwater.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_FishPond.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_FortressBeneathTheWater.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_InsideTheSunkenShip.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_Safari.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_SafariPipes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_SafariPollutionPipes.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_ToxicWater.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_UnderWaterRuins.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_Underwater.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_Underwater2.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_Underwater3.png
+share/smw/data/gfx/packs/Classic/backgrounds/Underwater_WaterPipes.png
+share/smw/data/gfx/packs/Classic/blocks/
+share/smw/data/gfx/packs/Classic/blocks/bounceblock.png
+share/smw/data/gfx/packs/Classic/blocks/breakableblock.png
+share/smw/data/gfx/packs/Classic/blocks/donutblock.png
+share/smw/data/gfx/packs/Classic/blocks/flipblock.png
+share/smw/data/gfx/packs/Classic/blocks/noteblock.png
+share/smw/data/gfx/packs/Classic/blocks/powerupblock.png
+share/smw/data/gfx/packs/Classic/blocks/switchblock.png
+share/smw/data/gfx/packs/Classic/blocks/throwblock.png
+share/smw/data/gfx/packs/Classic/blocks/viewblock.png
+share/smw/data/gfx/packs/Classic/blocks/weaponbreakableblock.png
+share/smw/data/gfx/packs/Classic/eyecandy/
+share/smw/data/gfx/packs/Classic/eyecandy/abovearrows.png
+share/smw/data/gfx/packs/Classic/eyecandy/bobombsmoke.png
+share/smw/data/gfx/packs/Classic/eyecandy/bonus.png
+share/smw/data/gfx/packs/Classic/eyecandy/brokenblueblock.png
+share/smw/data/gfx/packs/Classic/eyecandy/brokenflipblock.png
+share/smw/data/gfx/packs/Classic/eyecandy/brokengrayblock.png
+share/smw/data/gfx/packs/Classic/eyecandy/brokenyellowblock.png
+share/smw/data/gfx/packs/Classic/eyecandy/bulletbilldead.png
+share/smw/data/gfx/packs/Classic/eyecandy/burnup.png
+share/smw/data/gfx/packs/Classic/eyecandy/cape.png
+share/smw/data/gfx/packs/Classic/eyecandy/cheepcheepdead.png
+share/smw/data/gfx/packs/Classic/eyecandy/cloud.png
+share/smw/data/gfx/packs/Classic/eyecandy/coinsparks.png
+share/smw/data/gfx/packs/Classic/eyecandy/crown.png
+share/smw/data/gfx/packs/Classic/eyecandy/explosion.png
+share/smw/data/gfx/packs/Classic/eyecandy/extralife.png
+share/smw/data/gfx/packs/Classic/eyecandy/fireballexplosion.png
+share/smw/data/gfx/packs/Classic/eyecandy/fireworks.png
+share/smw/data/gfx/packs/Classic/eyecandy/fish.png
+share/smw/data/gfx/packs/Classic/eyecandy/frictionsmoke.png
+share/smw/data/gfx/packs/Classic/eyecandy/ghost.png
+share/smw/data/gfx/packs/Classic/eyecandy/goombadead.png
+share/smw/data/gfx/packs/Classic/eyecandy/goombadeadflying.png
+share/smw/data/gfx/packs/Classic/eyecandy/iceblock.png
+share/smw/data/gfx/packs/Classic/eyecandy/icecube.png
+share/smw/data/gfx/packs/Classic/eyecandy/leaves.png
+share/smw/data/gfx/packs/Classic/eyecandy/overlayholes.png
+share/smw/data/gfx/packs/Classic/eyecandy/poof.png
+share/smw/data/gfx/packs/Classic/eyecandy/rain.png
+share/smw/data/gfx/packs/Classic/eyecandy/shade1.png
+share/smw/data/gfx/packs/Classic/eyecandy/shade2.png
+share/smw/data/gfx/packs/Classic/eyecandy/shade3.png
+share/smw/data/gfx/packs/Classic/eyecandy/shellbounce.png
+share/smw/data/gfx/packs/Classic/eyecandy/shelldead.png
+share/smw/data/gfx/packs/Classic/eyecandy/shinesparks.png
+share/smw/data/gfx/packs/Classic/eyecandy/sledgebrothersdead.png
+share/smw/data/gfx/packs/Classic/eyecandy/snow.png
+share/smw/data/gfx/packs/Classic/eyecandy/spawndoor.png
+share/smw/data/gfx/packs/Classic/eyecandy/spawnsmoke.png
+share/smw/data/gfx/packs/Classic/eyecandy/supersmash.png
+share/smw/data/gfx/packs/Classic/eyecandy/tail.png
+share/smw/data/gfx/packs/Classic/eyecandy/teleportstar.png
+share/smw/data/gfx/packs/Classic/eyecandy/timershade.png
+share/smw/data/gfx/packs/Classic/eyecandy/warplock.png
+share/smw/data/gfx/packs/Classic/eyecandy/wind_meter.png
+share/smw/data/gfx/packs/Classic/eyecandy/wings.png
+share/smw/data/gfx/packs/Classic/fonts/
+share/smw/data/gfx/packs/Classic/fonts/font_large.png
+share/smw/data/gfx/packs/Classic/fonts/font_small.png
+share/smw/data/gfx/packs/Classic/fonts/race.png
+share/smw/data/gfx/packs/Classic/fonts/score.png
+share/smw/data/gfx/packs/Classic/hazards/
+share/smw/data/gfx/packs/Classic/hazards/bulletbill.png
+share/smw/data/gfx/packs/Classic/hazards/bulletbill_preview.png
+share/smw/data/gfx/packs/Classic/hazards/bulletbill_thumbnail.png
+share/smw/data/gfx/packs/Classic/hazards/bulletbilldead.png
+share/smw/data/gfx/packs/Classic/hazards/fireball.png
+share/smw/data/gfx/packs/Classic/hazards/fireball_preview.png
+share/smw/data/gfx/packs/Classic/hazards/fireball_thumbnail.png
+share/smw/data/gfx/packs/Classic/hazards/flame.png
+share/smw/data/gfx/packs/Classic/hazards/flame_preview.png
+share/smw/data/gfx/packs/Classic/hazards/flame_thumbnail.png
+share/smw/data/gfx/packs/Classic/hazards/pirhanaplant.png
+share/smw/data/gfx/packs/Classic/hazards/pirhanaplant_preview.png
+share/smw/data/gfx/packs/Classic/hazards/pirhanaplant_thumbnail.png
+share/smw/data/gfx/packs/Classic/hazards/rotodisc.png
+share/smw/data/gfx/packs/Classic/hazards/rotodisc_preview.png
+share/smw/data/gfx/packs/Classic/hazards/rotodisc_thumbnail.png
+share/smw/data/gfx/packs/Classic/menu/
+share/smw/data/gfx/packs/Classic/menu/dialog.png
+share/smw/data/gfx/packs/Classic/menu/dialog_button.png
+share/smw/data/gfx/packs/Classic/menu/game_countdown_numbers.png
+share/smw/data/gfx/packs/Classic/menu/menu_announcement_icons.png
+share/smw/data/gfx/packs/Classic/menu/menu_background.png
+share/smw/data/gfx/packs/Classic/menu/menu_boxed_numbers.png
+share/smw/data/gfx/packs/Classic/menu/menu_dialog.png
+share/smw/data/gfx/packs/Classic/menu/menu_font_large.png
+share/smw/data/gfx/packs/Classic/menu/menu_font_small.png
+share/smw/data/gfx/packs/Classic/menu/menu_map_filter.png
+share/smw/data/gfx/packs/Classic/menu/menu_map_flags.png
+share/smw/data/gfx/packs/Classic/menu/menu_mapitems_preview.png
+share/smw/data/gfx/packs/Classic/menu/menu_mapitems_thumbnail.png
+share/smw/data/gfx/packs/Classic/menu/menu_match_select.png
+share/smw/data/gfx/packs/Classic/menu/menu_mode_large.png
+share/smw/data/gfx/packs/Classic/menu/menu_mode_small.png
+share/smw/data/gfx/packs/Classic/menu/menu_plain_field.png
+share/smw/data/gfx/packs/Classic/menu/menu_player_select.png
+share/smw/data/gfx/packs/Classic/menu/menu_selectfield.png
+share/smw/data/gfx/packs/Classic/menu/menu_selectfield_disabled.png
+share/smw/data/gfx/packs/Classic/menu/menu_shade.png
+share/smw/data/gfx/packs/Classic/menu/menu_slider_bar.png
+share/smw/data/gfx/packs/Classic/menu/menu_smw.png
+share/smw/data/gfx/packs/Classic/menu/menu_version.png
+share/smw/data/gfx/packs/Classic/menu/menu_vertical_arrows.png
+share/smw/data/gfx/packs/Classic/menu/menu_warp_preview.png
+share/smw/data/gfx/packs/Classic/menu/menu_warp_thumbnail.png
+share/smw/data/gfx/packs/Classic/menu/player_select_background.png
+share/smw/data/gfx/packs/Classic/menu/player_select_ready.png
+share/smw/data/gfx/packs/Classic/menu/score_cards.png
+share/smw/data/gfx/packs/Classic/menu/score_coins.png
+share/smw/data/gfx/packs/Classic/menu/score_hearts.png
+share/smw/data/gfx/packs/Classic/menu/scoreboard.png
+share/smw/data/gfx/packs/Classic/menu/splash_credits.png
+share/smw/data/gfx/packs/Classic/menu/tour_markers.png
+share/smw/data/gfx/packs/Classic/menu/tournament_background.png
+share/smw/data/gfx/packs/Classic/menu/tournament_powerup_splash.png
+share/smw/data/gfx/packs/Classic/modeobjects/
+share/smw/data/gfx/packs/Classic/modeobjects/areas.png
+share/smw/data/gfx/packs/Classic/modeobjects/bonuschest.png
+share/smw/data/gfx/packs/Classic/modeobjects/bowserfire.png
+share/smw/data/gfx/packs/Classic/modeobjects/buzzybeetle.png
+share/smw/data/gfx/packs/Classic/modeobjects/cheepcheep.png
+share/smw/data/gfx/packs/Classic/modeobjects/chicken.png
+share/smw/data/gfx/packs/Classic/modeobjects/coin.png
+share/smw/data/gfx/packs/Classic/modeobjects/collectcards.png
+share/smw/data/gfx/packs/Classic/modeobjects/egg.png
+share/smw/data/gfx/packs/Classic/modeobjects/eggnumbers.png
+share/smw/data/gfx/packs/Classic/modeobjects/flagbases.png
+share/smw/data/gfx/packs/Classic/modeobjects/flags.png
+share/smw/data/gfx/packs/Classic/modeobjects/frenzycards.png
+share/smw/data/gfx/packs/Classic/modeobjects/goomba.png
+share/smw/data/gfx/packs/Classic/modeobjects/jail.png
+share/smw/data/gfx/packs/Classic/modeobjects/key.png
+share/smw/data/gfx/packs/Classic/modeobjects/kingofthehill.png
+share/smw/data/gfx/packs/Classic/modeobjects/koopa.png
+share/smw/data/gfx/packs/Classic/modeobjects/menu_egg.png
+share/smw/data/gfx/packs/Classic/modeobjects/menu_stomp.png
+share/smw/data/gfx/packs/Classic/modeobjects/menu_survival.png
+share/smw/data/gfx/packs/Classic/modeobjects/ownedtags.png
+share/smw/data/gfx/packs/Classic/modeobjects/paragoomba.png
+share/smw/data/gfx/packs/Classic/modeobjects/parakoopa.png
+share/smw/data/gfx/packs/Classic/modeobjects/phanto.png
+share/smw/data/gfx/packs/Classic/modeobjects/pipeminigamebonuses.png
+share/smw/data/gfx/packs/Classic/modeobjects/podobo.png
+share/smw/data/gfx/packs/Classic/modeobjects/racegoal.png
+share/smw/data/gfx/packs/Classic/modeobjects/redkoopa.png
+share/smw/data/gfx/packs/Classic/modeobjects/redparakoopa.png
+share/smw/data/gfx/packs/Classic/modeobjects/sledgebrothers.png
+share/smw/data/gfx/packs/Classic/modeobjects/sledgehammer.png
+share/smw/data/gfx/packs/Classic/modeobjects/spiny.png
+share/smw/data/gfx/packs/Classic/modeobjects/star.png
+share/smw/data/gfx/packs/Classic/modeobjects/superfire.png
+share/smw/data/gfx/packs/Classic/modeobjects/thwomp.png
+share/smw/data/gfx/packs/Classic/modeobjects/yoshi.png
+share/smw/data/gfx/packs/Classic/modeskins/
+share/smw/data/gfx/packs/Classic/modeskins/bobomb.bmp
+share/smw/data/gfx/packs/Classic/modeskins/chicken.bmp
+share/smw/data/gfx/packs/Classic/modeskins/shyguy.bmp
+share/smw/data/gfx/packs/Classic/palette.bmp
+share/smw/data/gfx/packs/Classic/powerups/
+share/smw/data/gfx/packs/Classic/powerups/1uppowerup.png
+share/smw/data/gfx/packs/Classic/powerups/2uppowerup.png
+share/smw/data/gfx/packs/Classic/powerups/3uppowerup.png
+share/smw/data/gfx/packs/Classic/powerups/5uppowerup.png
+share/smw/data/gfx/packs/Classic/powerups/Scrap.shs
+share/smw/data/gfx/packs/Classic/powerups/bobombpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/bombpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/boomerangpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/bulletbillpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/clockpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/extratimepowerup.png
+share/smw/data/gfx/packs/Classic/powerups/featherpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/fireflower.png
+share/smw/data/gfx/packs/Classic/powerups/hammerpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/heartpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/icewandpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/jailkeypowerup.png
+share/smw/data/gfx/packs/Classic/powerups/kuriboshoe.png
+share/smw/data/gfx/packs/Classic/powerups/large.png
+share/smw/data/gfx/packs/Classic/powerups/leafpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/modpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/mysterymushroom.png
+share/smw/data/gfx/packs/Classic/powerups/podobopowerup.png
+share/smw/data/gfx/packs/Classic/powerups/poisonpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/powpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/pwings.png
+share/smw/data/gfx/packs/Classic/powerups/secret1.png
+share/smw/data/gfx/packs/Classic/powerups/secret2.png
+share/smw/data/gfx/packs/Classic/powerups/secret3.png
+share/smw/data/gfx/packs/Classic/powerups/secret4.png
+share/smw/data/gfx/packs/Classic/powerups/small.png
+share/smw/data/gfx/packs/Classic/powerups/spike.png
+share/smw/data/gfx/packs/Classic/powerups/spring.png
+share/smw/data/gfx/packs/Classic/powerups/starpowerup.png
+share/smw/data/gfx/packs/Classic/powerups/tanooki.png
+share/smw/data/gfx/packs/Classic/powerups/throwbox.png
+share/smw/data/gfx/packs/Classic/projectiles/
+share/smw/data/gfx/packs/Classic/projectiles/bomb.png
+share/smw/data/gfx/packs/Classic/projectiles/boomerang.png
+share/smw/data/gfx/packs/Classic/projectiles/bulletbill.png
+share/smw/data/gfx/packs/Classic/projectiles/fireball.png
+share/smw/data/gfx/packs/Classic/projectiles/hammer.png
+share/smw/data/gfx/packs/Classic/projectiles/shell.png
+share/smw/data/gfx/packs/Classic/projectiles/statue.png
+share/smw/data/gfx/packs/Classic/projectiles/throwblock.png
+share/smw/data/gfx/packs/Classic/projectiles/wandblast.png
+share/smw/data/gfx/packs/Classic/tilesets/
+share/smw/data/gfx/packs/Classic/tilesets/Classic/
+share/smw/data/gfx/packs/Classic/tilesets/Classic/large.png
+share/smw/data/gfx/packs/Classic/tilesets/Classic/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/Classic/small.png
+share/smw/data/gfx/packs/Classic/tilesets/Classic/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/Expanded/
+share/smw/data/gfx/packs/Classic/tilesets/Expanded/large.png
+share/smw/data/gfx/packs/Classic/tilesets/Expanded/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/Expanded/small.png
+share/smw/data/gfx/packs/Classic/tilesets/Expanded/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/Expanded2/
+share/smw/data/gfx/packs/Classic/tilesets/Expanded2/large.png
+share/smw/data/gfx/packs/Classic/tilesets/Expanded2/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/Expanded2/small.png
+share/smw/data/gfx/packs/Classic/tilesets/Expanded2/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/ExtendedCredits.txt
+share/smw/data/gfx/packs/Classic/tilesets/SMB1/
+share/smw/data/gfx/packs/Classic/tilesets/SMB1/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended/
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended2/
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended2/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended2/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended2/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB1Extended2/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SMB2/
+share/smw/data/gfx/packs/Classic/tilesets/SMB2/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended/
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended2/
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended2/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended2/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended2/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB2Extended2/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SMB3/
+share/smw/data/gfx/packs/Classic/tilesets/SMB3/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB3/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB3/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB3/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SMB3Extended/
+share/smw/data/gfx/packs/Classic/tilesets/SMB3Extended/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB3Extended/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB3Extended/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SMB3Extended/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorld/
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorld/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorld/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorld/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorld/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended2/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended3/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/large.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/small.png
+share/smw/data/gfx/packs/Classic/tilesets/SuperMarioWorldExtended4/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/YoshisIsland/
+share/smw/data/gfx/packs/Classic/tilesets/YoshisIsland/large.png
+share/smw/data/gfx/packs/Classic/tilesets/YoshisIsland/medium.png
+share/smw/data/gfx/packs/Classic/tilesets/YoshisIsland/small.png
+share/smw/data/gfx/packs/Classic/tilesets/YoshisIsland/tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/blocks.png
+share/smw/data/gfx/packs/Classic/tilesets/blocks_preview.png
+share/smw/data/gfx/packs/Classic/tilesets/blocks_thumbnail.png
+share/smw/data/gfx/packs/Classic/tilesets/tile_animation.png
+share/smw/data/gfx/packs/Classic/tilesets/tile_animation_preview.png
+share/smw/data/gfx/packs/Classic/tilesets/tile_animation_thumbnail.png
+share/smw/data/gfx/packs/Classic/tilesets/tile_animation_tileset.tls
+share/smw/data/gfx/packs/Classic/tilesets/unknown_tile.png
+share/smw/data/gfx/packs/Classic/tilesets/unknown_tile_preview.png
+share/smw/data/gfx/packs/Classic/tilesets/unknown_tile_thumbnail.png
+share/smw/data/gfx/packs/Classic/world/
+share/smw/data/gfx/packs/Classic/world/preview/
+share/smw/data/gfx/packs/Classic/world/preview/world_background.png
+share/smw/data/gfx/packs/Classic/world/preview/world_foreground.png
+share/smw/data/gfx/packs/Classic/world/preview/world_foreground_special.png
+share/smw/data/gfx/packs/Classic/world/preview/world_paths.png
+share/smw/data/gfx/packs/Classic/world/preview/world_vehicles.png
+share/smw/data/gfx/packs/Classic/world/thumbnail/
+share/smw/data/gfx/packs/Classic/world/thumbnail/world_background.png
+share/smw/data/gfx/packs/Classic/world/thumbnail/world_foreground.png
+share/smw/data/gfx/packs/Classic/world/thumbnail/world_foreground_special.png
+share/smw/data/gfx/packs/Classic/world/thumbnail/world_paths.png
+share/smw/data/gfx/packs/Classic/world/thumbnail/world_vehicles.png
+share/smw/data/gfx/packs/Classic/world/world_background.png
+share/smw/data/gfx/packs/Classic/world/world_bonushouse.png
+share/smw/data/gfx/packs/Classic/world/world_bonusplace.png
+share/smw/data/gfx/packs/Classic/world/world_foreground.png
+share/smw/data/gfx/packs/Classic/world/world_foreground_special.png
+share/smw/data/gfx/packs/Classic/world/world_item_popup.png
+share/smw/data/gfx/packs/Classic/world/world_paths.png
+share/smw/data/gfx/packs/Classic/world/world_powerups.png
+share/smw/data/gfx/packs/Classic/world/world_powerupssmall.png
+share/smw/data/gfx/packs/Classic/world/world_vehicles.png
+share/smw/data/gfx/packs/Retro/
+share/smw/data/gfx/packs/Retro/awards/
+share/smw/data/gfx/packs/Retro/awards/killsinrownumbers.png
+share/smw/data/gfx/packs/Retro/eyecandy/
+share/smw/data/gfx/packs/Retro/eyecandy/abovearrows.png
+share/smw/data/gfx/packs/Retro/eyecandy/bonus.png
+share/smw/data/gfx/packs/Retro/eyecandy/spawndoor.png
+share/smw/data/gfx/packs/Retro/eyecandy/warplock.png
+share/smw/data/gfx/packs/Retro/fonts/
+share/smw/data/gfx/packs/Retro/fonts/font_large.png
+share/smw/data/gfx/packs/Retro/fonts/font_small.png
+share/smw/data/gfx/packs/Retro/menu/
+share/smw/data/gfx/packs/Retro/menu/dialog.png
+share/smw/data/gfx/packs/Retro/menu/dialog_button.png
+share/smw/data/gfx/packs/Retro/menu/menu_background.png
+share/smw/data/gfx/packs/Retro/menu/menu_dialog.png
+share/smw/data/gfx/packs/Retro/menu/menu_font_large.png
+share/smw/data/gfx/packs/Retro/menu/menu_font_small.png
+share/smw/data/gfx/packs/Retro/menu/menu_map_filter.png
+share/smw/data/gfx/packs/Retro/menu/menu_map_flags.png
+share/smw/data/gfx/packs/Retro/menu/menu_mode_large.png
+share/smw/data/gfx/packs/Retro/menu/menu_mode_small.png
+share/smw/data/gfx/packs/Retro/menu/menu_plain_field.png
+share/smw/data/gfx/packs/Retro/menu/menu_player_select.png
+share/smw/data/gfx/packs/Retro/menu/menu_selectfield.png
+share/smw/data/gfx/packs/Retro/menu/menu_selectfield_disabled.png
+share/smw/data/gfx/packs/Retro/menu/menu_slider_bar.png
+share/smw/data/gfx/packs/Retro/menu/menu_smw.png
+share/smw/data/gfx/packs/Retro/menu/player_select_background.png
+share/smw/data/gfx/packs/Retro/menu/player_select_ready.png
+share/smw/data/gfx/packs/Retro/menu/scoreboard.png
+share/smw/data/gfx/packs/Retro/menu/splash_credits.png
+share/smw/data/gfx/packs/Retro/menu/tournament_background.png
+share/smw/data/gfx/packs/Retro/menu/tournament_powerup_splash.png
+share/smw/data/gfx/packs/Retro/modeobjects/
+share/smw/data/gfx/packs/Retro/modeobjects/chicken.png
+share/smw/data/gfx/packs/Retro/modeobjects/flagbases.png
+share/smw/data/gfx/packs/Retro/modeobjects/flags.png
+share/smw/data/gfx/packs/Retro/modeobjects/jail.png
+share/smw/data/gfx/packs/Retro/modeobjects/kingofthehill.png
+share/smw/data/gfx/packs/Retro/modeobjects/ownedtags.png
+share/smw/data/gfx/packs/Retro/powerups/
+share/smw/data/gfx/packs/Retro/powerups/1uppowerup.png
+share/smw/data/gfx/packs/Retro/powerups/2uppowerup.png
+share/smw/data/gfx/packs/Retro/powerups/3uppowerup.png
+share/smw/data/gfx/packs/Retro/powerups/5uppowerup.png
+share/smw/data/gfx/packs/Retro/powerups/large.png
+share/smw/data/gfx/packs/Retro/powerups/small.png
+share/smw/data/gfx/skins/
+share/smw/data/gfx/skins/0smw.bmp
+share/smw/data/gfx/skins/4matsy_BubbleBobble.bmp
+share/smw/data/gfx/skins/4matsy_Darknut.bmp
+share/smw/data/gfx/skins/4matsy_DigDug.bmp
+share/smw/data/gfx/skins/4matsy_Dinotorch.bmp
+share/smw/data/gfx/skins/4matsy_Ducker.bmp
+share/smw/data/gfx/skins/4matsy_Fygar.bmp
+share/smw/data/gfx/skins/4matsy_Goriya.bmp
+share/smw/data/gfx/skins/4matsy_Mappy.bmp
+share/smw/data/gfx/skins/4matsy_Moblin.bmp
+share/smw/data/gfx/skins/4matsy_Muncher.bmp
+share/smw/data/gfx/skins/4matsy_Pacman.bmp
+share/smw/data/gfx/skins/4matsy_Pooka.bmp
+share/smw/data/gfx/skins/4matsy_Stalfos.bmp
+share/smw/data/gfx/skins/4matsy_Vire.bmp
+share/smw/data/gfx/skins/Bahamut.bmp
+share/smw/data/gfx/skins/BlackMage.bmp
+share/smw/data/gfx/skins/BubBob.bmp
+share/smw/data/gfx/skins/BusterBeetle.bmp
+share/smw/data/gfx/skins/Chocobo.bmp
+share/smw/data/gfx/skins/Classic.bmp
+share/smw/data/gfx/skins/FTG_Monkey.bmp
+share/smw/data/gfx/skins/FTG_Octorok.bmp
+share/smw/data/gfx/skins/FTG_Yoshi.bmp
+share/smw/data/gfx/skins/Flurry.bmp
+share/smw/data/gfx/skins/Ghost.bmp
+share/smw/data/gfx/skins/Kirby.bmp
+share/smw/data/gfx/skins/Kooper.bmp
+share/smw/data/gfx/skins/Link.bmp
+share/smw/data/gfx/skins/Luigi.bmp
+share/smw/data/gfx/skins/Marioman64_WaddleDoo.bmp
+share/smw/data/gfx/skins/MontyMole.bmp
+share/smw/data/gfx/skins/NMcCoy_nipper.bmp
+share/smw/data/gfx/skins/NinjaKid.bmp
+share/smw/data/gfx/skins/Ninji.bmp
+share/smw/data/gfx/skins/PacMan.bmp
+share/smw/data/gfx/skins/Peardian_Zero.bmp
+share/smw/data/gfx/skins/Pig.bmp
+share/smw/data/gfx/skins/Pyoro.bmp
+share/smw/data/gfx/skins/Sgraff_AntiGuy.bmp
+share/smw/data/gfx/skins/Shyguy.bmp
+share/smw/data/gfx/skins/Snifit.bmp
+share/smw/data/gfx/skins/Sonic.bmp
+share/smw/data/gfx/skins/Spike.bmp
+share/smw/data/gfx/skins/SuperWario_Blooper.bmp
+share/smw/data/gfx/skins/SuperWario_Bowser.bmp
+share/smw/data/gfx/skins/SuperWario_DK.bmp
+share/smw/data/gfx/skins/SuperWario_Koopa.bmp
+share/smw/data/gfx/skins/Tweeter.bmp
+share/smw/data/gfx/skins/WhiteMage.bmp
+share/smw/data/gfx/skins/Wizrobe.bmp
+share/smw/data/gfx/skins/XdragonSB_Samus.bmp
+share/smw/data/gfx/skins/Xijar_Beetle.bmp
+share/smw/data/gfx/skins/Xijar_Cecil.bmp
+share/smw/data/gfx/skins/YoshiMan_Sandbag.bmp
+share/smw/data/gfx/skins/YoshiMan_Tanooki.bmp
+share/smw/data/gfx/skins/ftg_RedMage.bmp
+share/smw/data/gfx/skins/ftg_Train.bmp
+share/smw/data/gfx/skins/hazey_Bomberman.bmp
+share/smw/data/gfx/skins/hazey_Carbuncle.bmp
+share/smw/data/gfx/skins/hazey_ChuChuRocket.bmp
+share/smw/data/gfx/skins/hazey_HelloKitty.bmp
+share/smw/data/gfx/skins/hazey_JumpnBump.bmp
+share/smw/data/gfx/skins/hazey_Lolo.bmp
+share/smw/data/gfx/skins/hazey_Megaman.bmp
+share/smw/data/gfx/skins/hazey_Pikachu.bmp
+share/smw/data/gfx/skins/hazey_RainbowIslands.bmp
+share/smw/data/gfx/skins/hazey_Trainer.bmp
+share/smw/data/gfx/skins/link901_Knuckles.bmp
+share/smw/data/gfx/skins/link901_Tails.bmp
+share/smw/data/gfx/skins/peardian_BabyYoshi.bmp
+share/smw/data/gfx/skins/peardian_Blaziken.bmp
+share/smw/data/gfx/skins/peardian_Fawful.bmp
+share/smw/data/gfx/skins/peardian_Gardevoir.bmp
+share/smw/data/gfx/skins/peardian_GrimLeecher.bmp
+share/smw/data/gfx/skins/peardian_PsychoKamek.bmp
+share/smw/data/gfx/skins/peardian_Shroob.bmp
+share/smw/data/gfx/skins/sgraff_Boo.bmp
+share/smw/data/gfx/skins/sgraff_Bow.bmp
+share/smw/data/gfx/skins/sgraff_Cobrat.bmp
+share/smw/data/gfx/skins/sgraff_Daisy.bmp
+share/smw/data/gfx/skins/sgraff_DinoRex.bmp
+share/smw/data/gfx/skins/sgraff_Goomboo.bmp
+share/smw/data/gfx/skins/sgraff_HammerBrother.bmp
+share/smw/data/gfx/skins/sgraff_HammerMario.bmp
+share/smw/data/gfx/skins/sgraff_Lakitu.bmp
+share/smw/data/gfx/skins/sgraff_Luigi.bmp
+share/smw/data/gfx/skins/sgraff_Mario.bmp
+share/smw/data/gfx/skins/sgraff_Oldman.bmp
+share/smw/data/gfx/skins/sgraff_Peach.bmp
+share/smw/data/gfx/skins/sgraff_Shaggy.bmp
+share/smw/data/gfx/skins/sgraff_Toad.bmp
+share/smw/data/gfx/skins/sgraff_WarioWare.bmp
+share/smw/data/gfx/skins/wasabi_Fighterfly.bmp
+share/smw/data/gfx/skins/wasabi_Goomba.bmp
+share/smw/data/gfx/skins/wasabi_IceHockeyFat.bmp
+share/smw/data/gfx/skins/wasabi_IceHockeyGoalie.bmp
+share/smw/data/gfx/skins/wasabi_IceHockeyMedium.bmp
+share/smw/data/gfx/skins/wasabi_IceHockeySkinny.bmp
+share/smw/data/gfx/skins/wasabi_SlipIce.bmp
+share/smw/data/gfx/skins/wasabi_Wario.bmp
+share/smw/data/gfx/skins/wasabi_crab.bmp
+share/smw/data/gfx/skins/wasabi_excitebike.bmp
+share/smw/data/gfx/skins/wasabi_pit.bmp
+share/smw/data/gfx/skins/ym7_Grovyle.bmp
+share/smw/data/gfx/skins/ym7_Pikachu.bmp
+share/smw/data/gfx/skins/ym7_R.O.B.bmp
+share/smw/data/gfx/skins/ym7_Tingle.bmp
+share/smw/data/gfx/skins/ym7_Wario.bmp
+share/smw/data/gfx/skins/ym7_Yoshi.bmp
+share/smw/data/maps/
+share/smw/data/maps/0smw.map
+share/smw/data/maps/2skyfight.map
+share/smw/data/maps/3blockforts.map
+share/smw/data/maps/4highabove.map
+share/smw/data/maps/4matsy_Ballistic Boardwalks.map
+share/smw/data/maps/4matsy_Block Piles.map
+share/smw/data/maps/4matsy_Block! Block!.map
+share/smw/data/maps/4matsy_Bouncy Spikes.map
+share/smw/data/maps/4matsy_Cloud Props.map
+share/smw/data/maps/4matsy_Death From Above.map
+share/smw/data/maps/4matsy_Down With Donuts.map
+share/smw/data/maps/4matsy_Evening Fracas.map
+share/smw/data/maps/4matsy_Hanging Cactus Gardens.map
+share/smw/data/maps/4matsy_Heinous Heights.map
+share/smw/data/maps/4matsy_Islands of Questionable Support.map
+share/smw/data/maps/4matsy_Manic Mountain.map
+share/smw/data/maps/4matsy_Mishmash.map
+share/smw/data/maps/4matsy_Mountain King.map
+share/smw/data/maps/4matsy_Ninja Gaiden 1 - 1-1.map
+share/smw/data/maps/4matsy_Prepare to Joust Buzzard Bait.map
+share/smw/data/maps/4matsy_Rubber Room.map
+share/smw/data/maps/4matsy_Splitting Headache.map
+share/smw/data/maps/4matsy_Suspended Craziness.map
+share/smw/data/maps/4matsy_Traumatic Plains.map
+share/smw/data/maps/4matsy_Wacky Woods.map
+share/smw/data/maps/4matsy_Zelda 1 - 1st Quest Level 1.map
+share/smw/data/maps/4matsy_wirehenge.map
+share/smw/data/maps/5fall.map
+share/smw/data/maps/Big JM_City Streets.map
+share/smw/data/maps/FTG_Forest Temple.map
+share/smw/data/maps/FTG_Galaxy Split.map
+share/smw/data/maps/FTG_Purification.map
+share/smw/data/maps/FTG_The Arctic.map
+share/smw/data/maps/Fu3lman_mbc.map
+share/smw/data/maps/GG_Angry angels.map
+share/smw/data/maps/GG_Boo rondell.map
+share/smw/data/maps/GG_Boos Mansion.map
+share/smw/data/maps/GG_Bouncy Water.map
+share/smw/data/maps/GG_Bowsers Castle 2.map
+share/smw/data/maps/GG_Cheesy feet jungle.map
+share/smw/data/maps/GG_Cross Fire.map
+share/smw/data/maps/GG_Death Valley.map
+share/smw/data/maps/GG_Elevating Explosives.map
+share/smw/data/maps/GG_Fire Fortress.map
+share/smw/data/maps/GG_Flooded Sledgy area.map
+share/smw/data/maps/GG_Foltermethoden.map
+share/smw/data/maps/GG_From pole to pole.map
+share/smw/data/maps/GG_Ghost valley.map
+share/smw/data/maps/GG_Hilltop dodge.map
+share/smw/data/maps/GG_Hot Spot.map
+share/smw/data/maps/GG_Lorry loops.map
+share/smw/data/maps/GG_Molemania.map
+share/smw/data/maps/GG_Mushroom valley.map
+share/smw/data/maps/GG_Nearby the sky.map
+share/smw/data/maps/GG_Occupation.map
+share/smw/data/maps/GG_Petey summit.map
+share/smw/data/maps/GG_Phanto Fantastic.map
+share/smw/data/maps/GG_Pirhana Playground.map
+share/smw/data/maps/GG_Plant Fortress.map
+share/smw/data/maps/GG_Sandy Shelter.map
+share/smw/data/maps/GG_Shy Guy Factory 2.map
+share/smw/data/maps/GG_Shy Guy Factory.map
+share/smw/data/maps/GG_Submerged.map
+share/smw/data/maps/GG_The hotter the better.map
+share/smw/data/maps/GG_Triclyde Summit.map
+share/smw/data/maps/GG_Warios Castle.map
+share/smw/data/maps/GG_Water Fortress.map
+share/smw/data/maps/JJames_Blue Twilight.map
+share/smw/data/maps/JJames_Bullet Bill Air.map
+share/smw/data/maps/JJames_Clocks on Fire.map
+share/smw/data/maps/JJames_Plant Infestion.map
+share/smw/data/maps/Jacobthehero2006_battleblockarea.map
+share/smw/data/maps/LKA_Burn Yourself.map
+share/smw/data/maps/LKA_Sky of Fragrant Souls.map
+share/smw/data/maps/Link901_CrazyEyes.map
+share/smw/data/maps/Link901_Digital Doom.map
+share/smw/data/maps/Link901_DoomsDay.map
+share/smw/data/maps/Link901_MileHigh Madness.map
+share/smw/data/maps/Link901_Watery Day.map
+share/smw/data/maps/MrMister_Airshipz.map
+share/smw/data/maps/MrMister_Azul Montana.map
+share/smw/data/maps/MrMister_Battle City.map
+share/smw/data/maps/MrMister_Black Hole.map
+share/smw/data/maps/MrMister_Boatz.map
+share/smw/data/maps/MrMister_Bonus Paradise.map
+share/smw/data/maps/MrMister_Bonus Room.map
+share/smw/data/maps/MrMister_Bowsers Castle.map
+share/smw/data/maps/MrMister_Castle Armada.map
+share/smw/data/maps/MrMister_Castle Wall.map
+share/smw/data/maps/MrMister_Classicka.map
+share/smw/data/maps/MrMister_Clean Air.map
+share/smw/data/maps/MrMister_Coal Mine.map
+share/smw/data/maps/MrMister_Crevice Canyon.map
+share/smw/data/maps/MrMister_Danger Cave.map
+share/smw/data/maps/MrMister_Deep Water Mace.map
+share/smw/data/maps/MrMister_Destroyed Planet.map
+share/smw/data/maps/MrMister_Dirty Pipes.map
+share/smw/data/maps/MrMister_Flag Pole Jump Forever.map
+share/smw/data/maps/MrMister_Floating Cubes.map
+share/smw/data/maps/MrMister_Flooded Ghosts.map
+share/smw/data/maps/MrMister_Fluffy Falling.map
+share/smw/data/maps/MrMister_Flying Fortress.map
+share/smw/data/maps/MrMister_Forced Switch.map
+share/smw/data/maps/MrMister_Hill.map
+share/smw/data/maps/MrMister_Ice Shelf.map
+share/smw/data/maps/MrMister_Icy Fire Castle.map
+share/smw/data/maps/MrMister_Introid.map
+share/smw/data/maps/MrMister_Kirbyish.map
+share/smw/data/maps/MrMister_Lake Blues.map
+share/smw/data/maps/MrMister_Lunar Jungle.map
+share/smw/data/maps/MrMister_Madness Forest.map
+share/smw/data/maps/MrMister_MrIslandBattle.map
+share/smw/data/maps/MrMister_MrMountain.map
+share/smw/data/maps/MrMister_Scrolling Doom.map
+share/smw/data/maps/MrMister_Secret Pirate Cove.map
+share/smw/data/maps/MrMister_Snow Top.map
+share/smw/data/maps/MrMister_Tanx.map
+share/smw/data/maps/MrMister_The Mausoleum.map
+share/smw/data/maps/MrMister_Under Pressure.map
+share/smw/data/maps/MrMister_dark forest.map
+share/smw/data/maps/NMcCoy_1-3.map
+share/smw/data/maps/Peardian_Frozen Frenzy (MP5).map
+share/smw/data/maps/Peardian_Tower of the Sun.map
+share/smw/data/maps/Peardian_Volcanic Rain.map
+share/smw/data/maps/Peardian_alinos gate.map
+share/smw/data/maps/Peardian_arcterra gate.map
+share/smw/data/maps/Peardian_dare.map
+share/smw/data/maps/Peardian_pianta village - village.map
+share/smw/data/maps/Peardian_snowball fight.map
+share/smw/data/maps/Peardian_subcon.map
+share/smw/data/maps/Peardian_underwater.map
+share/smw/data/maps/Pikablu_Mushroom Kingdom.map
+share/smw/data/maps/SMW Fan_crazy castle.map
+share/smw/data/maps/SMW Fan_crystal caverns.map
+share/smw/data/maps/SMW Fan_shipwreck.map
+share/smw/data/maps/Sgraff_Bewarehouse.map
+share/smw/data/maps/Sgraff_Big Tree.map
+share/smw/data/maps/Sgraff_Haunted Temple.map
+share/smw/data/maps/Sgraff_Peach_s_Castle.map
+share/smw/data/maps/Sgraff_Skull Depot.map
+share/smw/data/maps/Sgraff_Storage Building.map
+share/smw/data/maps/Sgraff_Wood Pit.map
+share/smw/data/maps/Tanuki_Ambitions of the Abyss.map
+share/smw/data/maps/Tanuki_Aquatic Ruins.map
+share/smw/data/maps/Tanuki_Canyon with Waterfalls.map
+share/smw/data/maps/Tanuki_Der Ewige Garten.map
+share/smw/data/maps/Tanuki_Desert Canyon.map
+share/smw/data/maps/Tanuki_Dungeon Party.map
+share/smw/data/maps/Tanuki_FK Base.map
+share/smw/data/maps/Tanuki_Germany.map
+share/smw/data/maps/Tanuki_Ice Cave.map
+share/smw/data/maps/Tanuki_Jungle Bridge.map
+share/smw/data/maps/Tanuki_Lake Paradox.map
+share/smw/data/maps/Tanuki_Log Balancing.map
+share/smw/data/maps/Tanuki_Map in the Sky.map
+share/smw/data/maps/Tanuki_Moby Dick.map
+share/smw/data/maps/Tanuki_Room 824.map
+share/smw/data/maps/Tanuki_Scarlet Devil Library.map
+share/smw/data/maps/Tanuki_Sky Ruins.map
+share/smw/data/maps/Tanuki_SpaceIceLavaStuff.map
+share/smw/data/maps/Tanuki_Stairway.map
+share/smw/data/maps/Tanuki_Tewi Stage.map
+share/smw/data/maps/Xijar_1986.map
+share/smw/data/maps/Xijar_Boo is Back.map
+share/smw/data/maps/Xijar_Danger Canyon.map
+share/smw/data/maps/Xijar_Death Island.map
+share/smw/data/maps/Xijar_Derelict.map
+share/smw/data/maps/Xijar_Eighth Platform.map
+share/smw/data/maps/Xijar_Greden.map
+share/smw/data/maps/Xijar_Rat Race.map
+share/smw/data/maps/Xijar_Wonder Winterland.map
+share/smw/data/maps/Zadrave_Mario Fortress.map
+share/smw/data/maps/affe.map
+share/smw/data/maps/bcatcher_field day.map
+share/smw/data/maps/bcatcher_vanilla dome.map
+share/smw/data/maps/bcatcher_yoshi island.map
+share/smw/data/maps/bobmanperson_icy hills.map
+share/smw/data/maps/bobmanperson_wood.map
+share/smw/data/maps/cache/
+share/smw/data/maps/cache/.gitignore
+share/smw/data/maps/chaofan_classicon.map
+share/smw/data/maps/chomp_chomp beach.map
+share/smw/data/maps/clark_hidenseek.map
+share/smw/data/maps/coolman13714_green greens.map
+share/smw/data/maps/cristomarquez_abovethedomes.map
+share/smw/data/maps/cristomarquez_colorpile.map
+share/smw/data/maps/cristomarquez_darkrock.map
+share/smw/data/maps/cristomarquez_doublevision.map
+share/smw/data/maps/cristomarquez_fortress.map
+share/smw/data/maps/cristomarquez_ghosthouse.map
+share/smw/data/maps/cristomarquez_greenhill.map
+share/smw/data/maps/cristomarquez_icecube.map
+share/smw/data/maps/cristomarquez_indoor.map
+share/smw/data/maps/cristomarquez_pyramid.map
+share/smw/data/maps/cristomarquez_valley.map
+share/smw/data/maps/cristomarquez_warpzone.map
+share/smw/data/maps/eeliottheking_not so cave.map
+share/smw/data/maps/elude_aztec.map
+share/smw/data/maps/fm_nightvalley.map
+share/smw/data/maps/fm_olympianflora.map
+share/smw/data/maps/gki_castleout.map
+share/smw/data/maps/hazey_Bubble Bobble 2.map
+share/smw/data/maps/hazey_Iceland.map
+share/smw/data/maps/hazey_Jump n Bump.map
+share/smw/data/maps/hazey_Lava Island.map
+share/smw/data/maps/ikill4you_king_of_the_hill.map
+share/smw/data/maps/j rok_asinine.map
+share/smw/data/maps/j rok_begging for sumo again.map
+share/smw/data/maps/j rok_begging for sumo.map
+share/smw/data/maps/j rok_bring a towel.map
+share/smw/data/maps/j rok_circuit.map
+share/smw/data/maps/j rok_death to iggy.map
+share/smw/data/maps/j rok_divine intervention.map
+share/smw/data/maps/j rok_doubledown.map
+share/smw/data/maps/j rok_fastlane.map
+share/smw/data/maps/j rok_inebriation.map
+share/smw/data/maps/j rok_low bandwidth.map
+share/smw/data/maps/j rok_quzza.map
+share/smw/data/maps/j rok_salty dog.map
+share/smw/data/maps/j rok_toshinden.map
+share/smw/data/maps/jhero_blockfort.map
+share/smw/data/maps/justinio_pipes at sea.map
+share/smw/data/maps/max_greeny.map
+share/smw/data/maps/mcjimmy_CastleDashle.map
+share/smw/data/maps/mm64_as seen on tv.map
+share/smw/data/maps/mm64_dottedplus.map
+share/smw/data/maps/mp1_above the clouds.map
+share/smw/data/maps/mp1_bottle.map
+share/smw/data/maps/mp1_double-t.map
+share/smw/data/maps/mp1_hard to fly.map
+share/smw/data/maps/mp1_hello world.map
+share/smw/data/maps/mp1_iron.map
+share/smw/data/maps/mp1_quarterblock.map
+share/smw/data/maps/mp1_sky realm.map
+share/smw/data/maps/mp1_synchro.map
+share/smw/data/maps/mpinger_cliff.map
+share/smw/data/maps/mpinger_torch.map
+share/smw/data/maps/mpinger_tunnels.map
+share/smw/data/maps/mwtk_Gold.map
+share/smw/data/maps/mwtk_Van katoen.map
+share/smw/data/maps/mwtk_WhiteSky.map
+share/smw/data/maps/mwtk_Wolkje.map
+share/smw/data/maps/mwtk_symmetrical.map
+share/smw/data/maps/nitsuja_pillars of glory.map
+share/smw/data/maps/nitsuja_pipestruck.map
+share/smw/data/maps/nitsuja_reznor pit.map
+share/smw/data/maps/nitsuja_unfeeling.map
+share/smw/data/maps/nitsuja_wildlife.map
+share/smw/data/maps/pikawil_Hyrule Castle.map
+share/smw/data/maps/pikawil_King of the Hills.map
+share/smw/data/maps/pikawil_Kongo Jungle.map
+share/smw/data/maps/pikawil_Onett.map
+share/smw/data/maps/pikawil_Peach Castle.map
+share/smw/data/maps/pool_what.map
+share/smw/data/maps/screenshots/
+share/smw/data/maps/screenshots/Readme.txt
+share/smw/data/maps/sgraff_Buster_Beetle_s_Tower.map
+share/smw/data/maps/somestrangeflea_dropouts.map
+share/smw/data/maps/special/
+share/smw/data/maps/special/two52_special_bombboss_minigame.map
+share/smw/data/maps/special/two52_special_bonushouse.map
+share/smw/data/maps/special/two52_special_boxes_minigame.map
+share/smw/data/maps/special/two52_special_fireboss_minigame.map
+share/smw/data/maps/special/two52_special_hammerboss_minigame.map
+share/smw/data/maps/special/two52_special_pipe_minigame.map
+share/smw/data/maps/the errchenator_cliff tower.map
+share/smw/data/maps/the errchenator_crazy dungeon.map
+share/smw/data/maps/tiechiman_yarg.map
+share/smw/data/maps/tour/
+share/smw/data/maps/tour/README
+share/smw/data/maps/tour/Readme.txt
+share/smw/data/maps/tubesteak_coolnights.map
+share/smw/data/maps/tubesteak_dkjungle.map
+share/smw/data/maps/tubesteak_dune.map
+share/smw/data/maps/tubesteak_icecap.map
+share/smw/data/maps/tubesteak_lockout.map
+share/smw/data/maps/tubesteak_mountain waterfall.map
+share/smw/data/maps/tubesteak_piemont.map
+share/smw/data/maps/tubesteak_rainbowride.map
+share/smw/data/maps/tubesteak_shipwreck.map
+share/smw/data/maps/tubesteak_skyhigh.map
+share/smw/data/maps/tubesteak_ssbmjunglejapes.map
+share/smw/data/maps/tubesteak_thecourtyard.map
+share/smw/data/maps/tubesteak_treefort.map
+share/smw/data/maps/tubesteak_yoshisisland.map
+share/smw/data/maps/two52_Up In The Hills.map
+share/smw/data/maps/two52_cave.map
+share/smw/data/maps/two52_chainlink.map
+share/smw/data/maps/two52_manor.map
+share/smw/data/maps/two52_mountains.map
+share/smw/data/maps/two52_the pit.map
+share/smw/data/maps/username1_elevated.map
+share/smw/data/maps/username1_sunny hills.map
+share/smw/data/maps/username1_sunset hills.map
+share/smw/data/maps/ventuz_bounce2lava.map
+share/smw/data/maps/will_smb2.map
+share/smw/data/maps/will_smw.map
+share/smw/data/maps/will_topwar.map
+share/smw/data/maps/will_war2.map
+share/smw/data/maps/ym7_Sky Garden.map
+share/smw/data/maps/ym7_castor wilds.map
+share/smw/data/maps/ym7_jungle.map
+share/smw/data/maps/ym7_rainbowroadredux.map
+share/smw/data/maps/ym7_world1-2.map
+share/smw/data/music/
+share/smw/data/music/Overrides.txt
+share/smw/data/music/Readme.txt
+share/smw/data/music/game/
+share/smw/data/music/game/Standard/
+share/smw/data/music/game/Standard/Menu/
+share/smw/data/music/game/Standard/Menu/menu.ogg
+share/smw/data/music/game/Standard/Menu/tournamentmenu.ogg
+share/smw/data/music/game/Standard/Music.txt
+share/smw/data/music/game/Standard/SMB2_Boss.ogg
+share/smw/data/music/game/Standard/SMB2_Overground.ogg
+share/smw/data/music/game/Standard/SMB2_Underground.ogg
+share/smw/data/music/game/Standard/SMB3_Airship.ogg
+share/smw/data/music/game/Standard/SMB3_Athletic.ogg
+share/smw/data/music/game/Standard/SMB3_Battle.ogg
+share/smw/data/music/game/Standard/SMB3_Boss.ogg
+share/smw/data/music/game/Standard/SMB3_Castle.ogg
+share/smw/data/music/game/Standard/SMB3_Ghost.ogg
+share/smw/data/music/game/Standard/SMB3_Overground.ogg
+share/smw/data/music/game/Standard/SMB3_Sky.ogg
+share/smw/data/music/game/Standard/SMB3_Snow.ogg
+share/smw/data/music/game/Standard/SMB3_Underwater.ogg
+share/smw/data/music/game/Standard/SMB_Airship.ogg
+share/smw/data/music/game/Standard/SMB_Athletic.ogg
+share/smw/data/music/game/Standard/SMB_Battle.ogg
+share/smw/data/music/game/Standard/SMB_Bonus.ogg
+share/smw/data/music/game/Standard/SMB_Castle.ogg
+share/smw/data/music/game/Standard/SMB_Desert.ogg
+share/smw/data/music/game/Standard/SMB_Forest.ogg
+share/smw/data/music/game/Standard/SMB_Ghost.ogg
+share/smw/data/music/game/Standard/SMB_Overground.ogg
+share/smw/data/music/game/Standard/SMB_Snow.ogg
+share/smw/data/music/game/Standard/SMB_Underground.ogg
+share/smw/data/music/game/Standard/SMB_Underwater.ogg
+share/smw/data/music/game/Standard/Special/
+share/smw/data/music/game/Standard/Special/stageclear.ogg
+share/smw/data/music/game/Standard/Special/tournamentover.ogg
+share/smw/data/music/world/
+share/smw/data/music/world/Standard/
+share/smw/data/music/world/Standard/BonusGame.ogg
+share/smw/data/music/world/Standard/BowserCastle.ogg
+share/smw/data/music/world/Standard/DesertHill.ogg
+share/smw/data/music/world/Standard/GiantIsland.ogg
+share/smw/data/music/world/Standard/GrassLand.ogg
+share/smw/data/music/world/Standard/IceLand.ogg
+share/smw/data/music/world/Standard/Music.txt
+share/smw/data/music/world/Standard/MusicBox.ogg
+share/smw/data/music/world/Standard/PipeMaze.ogg
+share/smw/data/music/world/Standard/SeaSide.ogg
+share/smw/data/music/world/Standard/StarWorld.ogg
+share/smw/data/music/world/Standard/TheSky.ogg
+share/smw/data/music/world/Standard/TheSky2.ogg
+share/smw/data/music/world/Standard/ToadHouse.ogg
+share/smw/data/screenshots/
+share/smw/data/screenshots/Readme.txt
+share/smw/data/scripts/
+share/smw/data/scripts/CaptureTheFlagModeOptions.txt
+share/smw/data/scripts/ChickenModeOptions.txt
+share/smw/data/scripts/DominationModeOptions.txt
+share/smw/data/scripts/FrenzyModeOptions.txt
+share/smw/data/scripts/GameModeOptionsOnly.txt
+share/smw/data/scripts/JailModeOptions.txt
+share/smw/data/scripts/KingOfTheHillModeOptions.txt
+share/smw/data/scripts/NoModeOptions.txt
+share/smw/data/scripts/RaceModeOptions.txt
+share/smw/data/scripts/StarModeOptions.txt
+share/smw/data/scripts/StartMenuAutomation.txt
+share/smw/data/scripts/StompModeOptions.txt
+share/smw/data/scripts/SurvivalModeOptions.txt
+share/smw/data/scripts/TagModeOptions.txt
+share/smw/data/sfx/
+share/smw/data/sfx/announcer/
+share/smw/data/sfx/announcer/Mario/
+share/smw/data/sfx/announcer/Mario/enter-stage.wav
+share/smw/data/sfx/announcer/Mario/lets_go.wav
+share/smw/data/sfx/announcer/None.txt
+share/smw/data/sfx/packs/
+share/smw/data/sfx/packs/Classic/
+share/smw/data/sfx/packs/Classic/1up.wav
+share/smw/data/sfx/packs/Classic/area_tag.wav
+share/smw/data/sfx/packs/Classic/bob-omb.wav
+share/smw/data/sfx/packs/Classic/boomerang.wav
+share/smw/data/sfx/packs/Classic/breakblock.wav
+share/smw/data/sfx/packs/Classic/bulletbill.wav
+share/smw/data/sfx/packs/Classic/bump.wav
+share/smw/data/sfx/packs/Classic/burnup.wav
+share/smw/data/sfx/packs/Classic/cannon.wav
+share/smw/data/sfx/packs/Classic/capejump.wav
+share/smw/data/sfx/packs/Classic/chicken.wav
+share/smw/data/sfx/packs/Classic/clock.wav
+share/smw/data/sfx/packs/Classic/coin.wav
+share/smw/data/sfx/packs/Classic/collectpowerup.wav
+share/smw/data/sfx/packs/Classic/dcoin.wav
+share/smw/data/sfx/packs/Classic/death.wav
+share/smw/data/sfx/packs/Classic/enter-stage.wav
+share/smw/data/sfx/packs/Classic/feather.wav
+share/smw/data/sfx/packs/Classic/fireball.wav
+share/smw/data/sfx/packs/Classic/flamecannon.wav
+share/smw/data/sfx/packs/Classic/gameover.wav
+share/smw/data/sfx/packs/Classic/hit.wav
+share/smw/data/sfx/packs/Classic/impact.wav
+share/smw/data/sfx/packs/Classic/inventory.wav
+share/smw/data/sfx/packs/Classic/invincible.wav
+share/smw/data/sfx/packs/Classic/jump.wav
+share/smw/data/sfx/packs/Classic/kick.wav
+share/smw/data/sfx/packs/Classic/mapmove.wav
+share/smw/data/sfx/packs/Classic/mip.wav
+share/smw/data/sfx/packs/Classic/pause.wav
+share/smw/data/sfx/packs/Classic/pickup.wav
+share/smw/data/sfx/packs/Classic/powerdown.wav
+share/smw/data/sfx/packs/Classic/race.wav
+share/smw/data/sfx/packs/Classic/skid.wav
+share/smw/data/sfx/packs/Classic/slowdown.wav
+share/smw/data/sfx/packs/Classic/spit.wav
+share/smw/data/sfx/packs/Classic/springjump.wav
+share/smw/data/sfx/packs/Classic/sprout.wav
+share/smw/data/sfx/packs/Classic/starwarning.wav
+share/smw/data/sfx/packs/Classic/storedpowerup.wav
+share/smw/data/sfx/packs/Classic/storeitem.wav
+share/smw/data/sfx/packs/Classic/stun.wav
+share/smw/data/sfx/packs/Classic/superspring.wav
+share/smw/data/sfx/packs/Classic/switchpress.wav
+share/smw/data/sfx/packs/Classic/tail.wav
+share/smw/data/sfx/packs/Classic/throw.wav
+share/smw/data/sfx/packs/Classic/thunder.wav
+share/smw/data/sfx/packs/Classic/timewarning.wav
+share/smw/data/sfx/packs/Classic/transform.wav
+share/smw/data/sfx/packs/Classic/treasurechest.wav
+share/smw/data/sfx/packs/Classic/wand.wav
+share/smw/data/sfx/packs/Classic/warp.wav
+share/smw/data/sfx/packs/Classic/yoshi.wav
+share/smw/data/tours/
+share/smw/data/tours/0smw.txt
+share/smw/data/tours/Bowser.txt
+share/smw/data/tours/Flower.txt
+share/smw/data/tours/Koopa.txt
+share/smw/data/tours/Lost Levels.txt
+share/smw/data/tours/Luigi.txt
+share/smw/data/tours/Mario.txt
+share/smw/data/tours/Mushroom.txt
+share/smw/data/tours/Princess.txt
+share/smw/data/tours/Special.txt
+share/smw/data/tours/Star.txt
+share/smw/data/tours/Yoshi.txt
+share/smw/data/worlds/
+share/smw/data/worlds/Big JM_Mixed River.txt
+share/smw/data/worlds/Contest/
+share/smw/data/worlds/Contest/4matsy_Moonbase Madness.map
+share/smw/data/worlds/Contest/4matsy_Using ABXY to Fly It.map
+share/smw/data/worlds/Contest/Agoat_Industrial Madness.map
+share/smw/data/worlds/Contest/Alec2001_Alecs castle inverted.map
+share/smw/data/worlds/Contest/Alex_Abandoned Planet.map
+share/smw/data/worlds/Contest/Alex_Warehouse.map
+share/smw/data/worlds/Contest/Big JM_Castle 72.map
+share/smw/data/worlds/Contest/Big JM_Grassy Bonus.map
+share/smw/data/worlds/Contest/Big JM_House of Ancients.map
+share/smw/data/worlds/Contest/Big JM_The Skin Factory.map
+share/smw/data/worlds/Contest/Chaos_Castle of Chaos.map
+share/smw/data/worlds/Contest/Chaos_Haunted House.map
+share/smw/data/worlds/Contest/DXMachina_DXMcastle.map
+share/smw/data/worlds/Contest/DarkSpirit_Air Bombers.map
+share/smw/data/worlds/Contest/DrHammer_Block Testing Grounds.map
+share/smw/data/worlds/Contest/DrHammer_Pirates of the Mushroom Kingdom.map
+share/smw/data/worlds/Contest/FTG_A Fish Out Of Water.map
+share/smw/data/worlds/Contest/FTG_Dark Castle.map
+share/smw/data/worlds/Contest/FTG_Smelting Pot.map
+share/smw/data/worlds/Contest/FTG_Wharf_Rats.map
+share/smw/data/worlds/Contest/Firekirby_Pirate battle.map
+share/smw/data/worlds/Contest/GG_G-Guy-s Polar Base.map
+share/smw/data/worlds/Contest/GG_On Drugs.map
+share/smw/data/worlds/Contest/GG_Store for this and that.map
+share/smw/data/worlds/Contest/GG_Vivid Castle.map
+share/smw/data/worlds/Contest/Gadouken_castle!.map
+share/smw/data/worlds/Contest/GallikYoshi_Lunar Bridge.map
+share/smw/data/worlds/Contest/HT_Death Ship.map
+share/smw/data/worlds/Contest/JFrog_Castle o Awesome.map
+share/smw/data/worlds/Contest/JJames_Bonusful.map
+share/smw/data/worlds/Contest/JJames_Chain Link Chamber.map
+share/smw/data/worlds/Contest/JJames_Delivery Line.map
+share/smw/data/worlds/Contest/JJames_Ghostly Hall.map
+share/smw/data/worlds/Contest/JJames_Orions Belt.map
+share/smw/data/worlds/Contest/JJames_Rabbit Hole.map
+share/smw/data/worlds/Contest/Jugabro_Childs Play.map
+share/smw/data/worlds/Contest/LKA_Galaxy in a Pot.map
+share/smw/data/worlds/Contest/LKA_Nameless Factory.map
+share/smw/data/worlds/Contest/LKA_Unnamed Castle Map.map
+share/smw/data/worlds/Contest/M3_SS Freedom Airship.map
+share/smw/data/worlds/Contest/MC Jimmy_Blastard.map
+share/smw/data/worlds/Contest/MC Jimmy_FrozenSomething.map
+share/smw/data/worlds/Contest/MC Jimmy_I guess Ill give it a Chance.map
+share/smw/data/worlds/Contest/MC Jimmy_Only One Will Stand Tall.map
+share/smw/data/worlds/Contest/MC Jimmy_SpaceMy.map
+share/smw/data/worlds/Contest/MegaTailzChao_Bonus Cave.map
+share/smw/data/worlds/Contest/MegaTailzChao_Friendly Factory.map
+share/smw/data/worlds/Contest/MegaTailzChao_UnderwaterCastle.map
+share/smw/data/worlds/Contest/MrMister_Bonus Paradise.map
+share/smw/data/worlds/Contest/MrMister_Flooded Ghosts.map
+share/smw/data/worlds/Contest/MrMister_Flying Fortress.map
+share/smw/data/worlds/Contest/MrMister_Ice Shelf.map
+share/smw/data/worlds/Contest/MrMister_Icy Fire Castle.map
+share/smw/data/worlds/Contest/MrSlayer_Flip Room.map
+share/smw/data/worlds/Contest/NiGHTS_Hazardous Castle.map
+share/smw/data/worlds/Contest/Night213_Ice Fortress.map
+share/smw/data/worlds/Contest/Night213_Nights Castle.map
+share/smw/data/worlds/Contest/Night213_Nights Cruiser.map
+share/smw/data/worlds/Contest/Nova_Airship Galley.map
+share/smw/data/worlds/Contest/Onijustin_AirshipXD.map
+share/smw/data/worlds/Contest/Onijustin_blox.map
+share/smw/data/worlds/Contest/Onijustin_lunarbase.map
+share/smw/data/worlds/Contest/Pikaboo_Caution! Moving Parts.map
+share/smw/data/worlds/Contest/Pikaboo_Secret Civilization.map
+share/smw/data/worlds/Contest/Roxas_Question block.map
+share/smw/data/worlds/Contest/Roxas_Spacemap.map
+share/smw/data/worlds/Contest/Scienstien_Bonus Puzzle.map
+share/smw/data/worlds/Contest/Tanuki_Another storm to remote control.map
+share/smw/data/worlds/Contest/Tanuki_In The Air.map
+share/smw/data/worlds/Contest/Tanuki_Rotting like a Bonus Room.map
+share/smw/data/worlds/Contest/ThunderBro_bonus circus.map
+share/smw/data/worlds/Contest/Thunderbro_IndustialZone.map
+share/smw/data/worlds/Contest/Turndawg107_Phendrana Cave.map
+share/smw/data/worlds/Contest/Turndawg107_Piston Panic.map
+share/smw/data/worlds/Contest/Twilight_Blocking Ground.map
+share/smw/data/worlds/Contest/Twilight_Ghosty.map
+share/smw/data/worlds/Contest/WeeTacos_End of the Line.map
+share/smw/data/worlds/Contest/WeeTacos_Familiar Ending.map
+share/smw/data/worlds/Contest/Zadrave_CarCrusher.map
+share/smw/data/worlds/Contest/Zekobah_AIRSHIPS IS HEALTTHY EAT DEM!.map
+share/smw/data/worlds/Contest/gadouken_0factory.map
+share/smw/data/worlds/Contest/gadouken_pirates.map
+share/smw/data/worlds/Contest/gadouken_space.map
+share/smw/data/worlds/Contest/h4gm4_somemoon.map
+share/smw/data/worlds/Contest/jfrog_aisland.map
+share/smw/data/worlds/Contest/jfrog_ghostship.map
+share/smw/data/worlds/Contest/pottmannen_ghost house.map
+share/smw/data/worlds/Contest/pottmannen_im freezing.map
+share/smw/data/worlds/Contest/pottmannen_outer space thingie.map
+share/smw/data/worlds/Contest/smwfan_Space Pods.map
+share/smw/data/worlds/Contest/specialkid_Mt Bananavision!.map
+share/smw/data/worlds/Contest/ssf_Block Mayhem.map
+share/smw/data/worlds/Contest/ssf_air battle.map
+share/smw/data/worlds/Contest/ssf_freaky home.map
+share/smw/data/worlds/Contest/ssf_smworld bonus.map
+share/smw/data/worlds/Contest/talas_PiratesCookie.map
+share/smw/data/worlds/Contest/theBOMB001_Big Dipper_.map
+share/smw/data/worlds/Contest/theBOMB001_Melting Artic_.map
+share/smw/data/worlds/Contest/theBOMB001_Shipboard_.map
+share/smw/data/worlds/Contest/two52_inverted airship.map
+share/smw/data/worlds/Contest/two52_lunar pool.map
+share/smw/data/worlds/Contest/xutawoo_Bonus I Think.map
+share/smw/data/worlds/Contest/xutawoo_McMishima-s.map
+share/smw/data/worlds/Contest/xutawoo_Pot Luck Castle.map
+share/smw/data/worlds/Contest/ylle_another jungle castle.map
+share/smw/data/worlds/Contest/ylle_bawnus.map
+share/smw/data/worlds/Contest_Airship World.txt
+share/smw/data/worlds/Contest_Arctic World.txt
+share/smw/data/worlds/Contest_Block World.txt
+share/smw/data/worlds/Contest_Bonus World.txt
+share/smw/data/worlds/Contest_Castle World.txt
+share/smw/data/worlds/Contest_Ghost House.txt
+share/smw/data/worlds/Contest_Industrial World.txt
+share/smw/data/worlds/Contest_Pirate World.txt
+share/smw/data/worlds/Contest_Space World.txt
+share/smw/data/worlds/Flurry World/
+share/smw/data/worlds/Flurry World/Cirtty.map
+share/smw/data/worlds/Flurry World/Dried Out Fortress.map
+share/smw/data/worlds/Flurry World/Entrance to Flurlin.map
+share/smw/data/worlds/Flurry World/Eye lakes.map
+share/smw/data/worlds/Flurry World/Flurlin.map
+share/smw/data/worlds/Flurry World/Flurrand.map
+share/smw/data/worlds/Flurry World/Flurry Beach.map
+share/smw/data/worlds/Flurry World/Flurry Castle.map
+share/smw/data/worlds/Flurry World/Front of Castle.map
+share/smw/data/worlds/Flurry World/Storage.map
+share/smw/data/worlds/Flurry World/The Icy Sewers.map
+share/smw/data/worlds/JJames_Kingdom High.txt
+share/smw/data/worlds/KingPepe_Flurry World.txt
+share/smw/data/worlds/KingdomHigh/
+share/smw/data/worlds/KingdomHigh/JJames_Battle Hill.map
+share/smw/data/worlds/KingdomHigh/JJames_Breakable Layers.map
+share/smw/data/worlds/KingdomHigh/JJames_BumpIt.map
+share/smw/data/worlds/KingdomHigh/JJames_Conveyer World.map
+share/smw/data/worlds/KingdomHigh/JJames_Desert Hill.map
+share/smw/data/worlds/KingdomHigh/JJames_Evil Mask.map
+share/smw/data/worlds/KingdomHigh/JJames_Final Air.map
+share/smw/data/worlds/KingdomHigh/JJames_From Heat Wave.map
+share/smw/data/worlds/KingdomHigh/JJames_Grassy Knot.map
+share/smw/data/worlds/KingdomHigh/JJames_Grey Desert.map
+share/smw/data/worlds/KingdomHigh/JJames_Haunted Unnerving.map
+share/smw/data/worlds/KingdomHigh/JJames_Ice Floe.map
+share/smw/data/worlds/KingdomHigh/JJames_Koopa Grounds.map
+share/smw/data/worlds/KingdomHigh/JJames_Lava Pot.map
+share/smw/data/worlds/KingdomHigh/JJames_Mountain of Faith.map
+share/smw/data/worlds/KingdomHigh/JJames_Mushpoie.map
+share/smw/data/worlds/KingdomHigh/JJames_Note Beach.map
+share/smw/data/worlds/KingdomHigh/JJames_Pipe Forest.map
+share/smw/data/worlds/KingdomHigh/JJames_Piped In.map
+share/smw/data/worlds/KingdomHigh/JJames_Pyramid Vertex.map
+share/smw/data/worlds/KingdomHigh/JJames_Quicksand Ruins.map
+share/smw/data/worlds/KingdomHigh/JJames_Resurgance.map
+share/smw/data/worlds/KingdomHigh/JJames_Ring of Rotodisc.map
+share/smw/data/worlds/KingdomHigh/JJames_River of Magma.map
+share/smw/data/worlds/KingdomHigh/JJames_Spike Fortress.map
+share/smw/data/worlds/KingdomHigh/JJames_Submergence.map
+share/smw/data/worlds/KingdomHigh/JJames_Sunken Ship.map
+share/smw/data/worlds/KingdomHigh/JJames_Switch Doors.map
+share/smw/data/worlds/KingdomHigh/JJames_Topside.map
+share/smw/data/worlds/KingdomHigh/JJames_Transparent Land.map
+share/smw/data/worlds/KingdomHigh/JJames_Treasure Chest.map
+share/smw/data/worlds/MixedRiver/
+share/smw/data/worlds/MixedRiver/Big JM_Ancient castle.map
+share/smw/data/worlds/MixedRiver/Big JM_Castle Cavern.map
+share/smw/data/worlds/MixedRiver/Big JM_Corrupted Road.map
+share/smw/data/worlds/MixedRiver/Big JM_Dark mountain.map
+share/smw/data/worlds/MixedRiver/Big JM_Death Castle.map
+share/smw/data/worlds/MixedRiver/Big JM_Forest fun.map
+share/smw/data/worlds/MixedRiver/Big JM_Golden Fort.map
+share/smw/data/worlds/MixedRiver/Big JM_Grassy Canyon.map
+share/smw/data/worlds/MixedRiver/Big JM_Green Pastures.map
+share/smw/data/worlds/MixedRiver/Big JM_Guardian Fortress.map
+share/smw/data/worlds/MixedRiver/Big JM_Ice Flow.map
+share/smw/data/worlds/MixedRiver/Big JM_Ice Spire.map
+share/smw/data/worlds/MixedRiver/Big JM_Icy Plateau.map
+share/smw/data/worlds/MixedRiver/Big JM_Into the darkness.map
+share/smw/data/worlds/MixedRiver/Big JM_Plains of old.map
+share/smw/data/worlds/MixedRiver/Big JM_Shiver Spire.map
+share/smw/data/worlds/MixedRiver/Big JM_Starry Path.map
+share/smw/data/worlds/MixedRiver/Big JM_The Dark Tower.map
+share/smw/data/worlds/MixedRiver/Big JM_Tower of light.map
+share/smw/data/worlds/MrIsland/
+share/smw/data/worlds/MrIsland/MrMister_MrIsland1.map
+share/smw/data/worlds/MrIsland/MrMister_MrIsland2.map
+share/smw/data/worlds/MrIsland/MrMister_MrIsland3.map
+share/smw/data/worlds/MrIsland/MrMister_MrIsland4.map
+share/smw/data/worlds/MrIsland/MrMister_MrIsland5.map
+share/smw/data/worlds/MrIsland/MrMister_MrIsland6.map
+share/smw/data/worlds/MrIsland/MrMister_MrIslandBattle.map
+share/smw/data/worlds/MrIsland/MrMister_MrIslandCastle.map
+share/smw/data/worlds/MrIsland/MrMister_MrIslandFort.map
+share/smw/data/worlds/MrIsland/MrMister_MrIslandGhost.map
+share/smw/data/worlds/MrMister_MrIsland.txt
+share/smw/data/worlds/MrMister_Simple.txt
+share/smw/data/worlds/SMB3.txt
+share/smw/data/worlds/Simple/
+share/smw/data/worlds/Simple/MrMister_Bowsers Castle.map
+share/smw/data/worlds/Simple/MrMister_Castle Wall.map
+share/smw/data/worlds/Simple/MrMister_Classicka.map
+share/smw/data/worlds/Simple/MrMister_Coal Mine.map
+share/smw/data/worlds/Simple/MrMister_Crevice Canyon.map
+share/smw/data/worlds/Simple/MrMister_Flooded Ghosts.map
+share/smw/data/worlds/Simple/MrMister_Hill.map
+share/smw/data/worlds/Simple/MrMister_MrIslandBattle.map
+share/smw/data/worlds/Sky World/
+share/smw/data/worlds/Sky World/Smb3 1-hammer.map
+share/smw/data/worlds/Sky World/Smb3 5-hammer.map
+share/smw/data/worlds/Sky World/smb3 5-1.map
+share/smw/data/worlds/Sky World/smb3 5-2.map
+share/smw/data/worlds/Sky World/smb3 5-3.map
+share/smw/data/worlds/Sky World/smb3 5-4.map
+share/smw/data/worlds/Sky World/smb3 5-5.map
+share/smw/data/worlds/Sky World/smb3 5-6.map
+share/smw/data/worlds/Sky World/smb3 5-7.map
+share/smw/data/worlds/Sky World/smb3 5-8.map
+share/smw/data/worlds/Sky World/smb3 5-9.map
+share/smw/data/worlds/Sky World/smb3 5-airship.map
+share/smw/data/worlds/Sky World/smb3 5-fortress1.map
+share/smw/data/worlds/Sky World/smb3 5-fortress2.map
+share/smw/data/worlds/Sky World/smb3 5-tower.map
+share/smw/data/worlds/Smb3/
+share/smw/data/worlds/Smb3/Big JM_Grassland 1.map
+share/smw/data/worlds/Smb3/Big JM_Grassland 2.map
+share/smw/data/worlds/Smb3/Big JM_Grassland 3.map
+share/smw/data/worlds/Smb3/Big JM_Grassland 4.map
+share/smw/data/worlds/Smb3/Big JM_Grassland 5.map
+share/smw/data/worlds/Smb3/Big JM_Grassland 6.map
+share/smw/data/worlds/Smb3/Big JM_Grassland airship.map
+share/smw/data/worlds/Smb3/Big JM_Grassland fortress.map
+share/smw/data/worlds/screenshots/
+share/smw/data/worlds/screenshots/Readme.txt

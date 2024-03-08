@@ -13,9 +13,9 @@ HOMEPAGE=	https://www.swmstuff.net
 
 MAINTAINER=	Theo Bori <nagi@tilde.team>
 
-SITES= 	https://github.com/mmatyas/supermariowar/
+SITES = 	https://github.com/mmatyas/supermariowar/
 
-DISTFILES= 	archive/refs/tags/${V}${EXTRACT_SUFX} \
+DISTFILES = 	archive/refs/tags/${V}${EXTRACT_SUFX} \
 		releases/download/continuous/supermariowar_${DATA_V}_linux.zip
 
 PERMIT_PACKAGE=	Yes
@@ -35,7 +35,13 @@ NO_TEST= 	Yes
 CONFIGURE_STYLE=	cmake
 CONFIGURE_ARGS=		-DBUILD_STATIC_LIBS="OFF"
 
+do-install:
+.for p in smw smw-leveledit smw-worldedit
+	${INSTALL_PROGRAM} ${WRKBUILD}/Binaries/Release/${p} ${PREFIX}/bin/${p}
+.endfor
+
 post-install:
-	mv ${WRKDIR}/supermariowar/data ${PREFIX}/games/smw_data
+	${INSTALL_DATA_DIR} ${PREFIX}/share/smw
+	cp -r ${WRKDIR}/supermariowar/data ${PREFIX}/share/smw/data
 
 .include <bsd.port.mk>
