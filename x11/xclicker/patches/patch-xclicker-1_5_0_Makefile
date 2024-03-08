@@ -1,0 +1,23 @@
+Index: xclicker-1.5.0/Makefile
+--- xclicker-1.5.0/Makefile.orig
++++ xclicker-1.5.0/Makefile
+@@ -13,9 +13,7 @@ DESKFILE  = assets/xclicker.desktop
+ debpkgdir="./${PKG_DIR}/deb/package"
+ appimgdir="${PKG_DIR}/AppImage/XClicker.AppDir"
+ 
+-ifeq ($(TARGET_ARCH),)
+-TARGET_ARCH := amd64
+-endif
++TARGET_ARCH ?= amd64
+ 
+ .PHONY: build
+ build:
+@@ -26,7 +24,7 @@ build:
+ .PHONY: run
+ run:
+ 	./${TARGET}
+-	
++
+ .PHONY: all
+ all: build run
+ 
