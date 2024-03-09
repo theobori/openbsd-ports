@@ -20,7 +20,7 @@ DISTFILES = 	archive/refs/tags/${V}${EXTRACT_SUFX} \
 
 PERMIT_PACKAGE=	Yes
 
-WANTLIB+=	c SDL2
+WANTLIB+=	c SDL2 enet yaml-cpp
 
 LIB_DEPENDS=	devel/sdl2 \
 		devel/sdl2-image \
@@ -36,8 +36,11 @@ CONFIGURE_STYLE=	cmake
 CONFIGURE_ARGS=		-DBUILD_STATIC_LIBS="OFF"
 
 do-install:
+	${INSTALL_DATA_DIR} ${PREFIX}/games
+
 .for p in smw smw-leveledit smw-worldedit
-	${INSTALL_PROGRAM} ${WRKBUILD}/Binaries/Release/${p} ${PREFIX}/bin/${p}
+	${INSTALL_PROGRAM} ${WRKBUILD}/Binaries/Release/${p} ${PREFIX}/games/${p}
+	${SUBST_CMD} -c -m 755 ${FILESDIR}/${p} ${PREFIX}/bin/${p}
 .endfor
 
 post-install:

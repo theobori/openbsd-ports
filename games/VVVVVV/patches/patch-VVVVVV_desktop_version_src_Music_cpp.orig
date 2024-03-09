@@ -1,0 +1,36 @@
+Index: VVVVVV/desktop_version/src/Music.cpp
+--- VVVVVV/desktop_version/src/Music.cpp.orig
++++ VVVVVV/desktop_version/src/Music.cpp
+@@ -788,7 +788,7 @@ void musicclass::init(void)
+ 
+     if (!mmmmmm_blob.unPackBinary("mmmmmm.vvv"))
+     {
+-        if (pppppp_blob.unPackBinary("vvvvvvmusic.vvv"))
++'        if (pppppp_blob.unPackBinary("vvvvvvmusic.vvv"))
+         {
+             vlog_info("Loading music from PPPPPP blob...");
+ 
+@@ -823,22 +823,8 @@ void musicclass::init(void)
+         {
+             vlog_info("Loading music from loose files...");
+ 
+             SDL_RWops* rw;
+-
+-#define FOREACH_TRACK(_, track_name) \
+-    rw = PHYSFSRWOPS_openRead(track_name); \
+-    if (rw == NULL) \
+-    { \
+-        vlog_error("Unable to read loose music file: %s", SDL_GetError()); \
+-    } \
+-    else \
+-    { \
+-        musicTracks.push_back(MusicTrack(rw)); \
+-    }
+-
+-            TRACK_NAMES(_)
+-
+-#undef FOREACH_TRACK
++ #undef FOREACH_TRACK
+         }
+     }
+     else

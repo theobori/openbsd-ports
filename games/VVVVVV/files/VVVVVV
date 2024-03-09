@@ -1,0 +1,11 @@
+#!/bin/sh
+
+NAME=VVVVVV
+GAMES_DIR=${TRUEPREFIX}/games/${NAME}
+SHARE_DIR=${TRUEPREFIX}/share/${NAME}
+
+cd ${GAMES_DIR}
+
+exec ./${NAME} \
+     -fontsdir ${SHARE_DIR}/fonts \
+     -langdir ${SHARE_DIR}/land

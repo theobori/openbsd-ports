@@ -1,6 +1,11 @@
-@bin bin/smw
-@bin bin/smw-leveledit
-@bin bin/smw-worldedit
+bin/smw
+bin/smw-leveledit
+bin/smw-worldedit
+games/
+games/smw/
+@bin games/smw/smw
+@bin games/smw/smw-leveledit
+@bin games/smw/smw-worldedit
 share/smw/
 share/smw/data/
 share/smw/data/filters/
