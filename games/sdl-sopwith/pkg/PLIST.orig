@@ -1,0 +1,14 @@
+@bin bin/sopwith
+@man man/man5/sopwith.cfg.5
+@man man/man6/sopwith.6
+share/applications/
+share/applications/sopwith.desktop
+share/doc/sdl-sopwith/
+share/doc/sdl-sopwith/origdoc.txt
+share/icons/
+share/icons/hicolor/
+share/icons/hicolor/128x128/
+share/icons/hicolor/128x128/apps/
+share/icons/hicolor/128x128/apps/sopwith.png
+@tag update-desktop-database
+@tag gtk-update-icon-cache %D/share/icons/hicolor
