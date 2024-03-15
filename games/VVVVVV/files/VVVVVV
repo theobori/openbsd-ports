@@ -8,4 +8,5 @@ cd ${GAMES_DIR}
 
 exec ./${NAME} \
      -fontsdir ${SHARE_DIR}/fonts \
-     -langdir ${SHARE_DIR}/land
+     -langdir ${SHARE_DIR}/lang \
+     ${@}
